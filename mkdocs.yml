@@ -84,4 +84,5 @@ nav:
     - Maintainer Inactivity: governance/maintainer-inactivity.md
     - Archiving Inactive Repositories: governance/archiving-inactive-repositories.md
     - Security Policy: governance/security.md
-  - Meeting Minutes: meeting-minutes/index.md 
+  - Meeting Minutes:
+    - YYYY-mm-dd: meeting-minutes/YYYY-mm-dd.md 
