@@ -56,18 +56,19 @@ All projects may attend TAC meetings and contribute work regardless of their sta
 ``` mermaid
 flowchart
   p[Proposal]
-  subgraph s[Stages]
+  subgraph as[Active Stages]
     l[Labs]
     g[Growth]
     i[Impact]
   end
-  subgraph e[Emeritus]
+  subgraph is[Inactive Stages]
+    e[Emeritus]
   end
-  p --> s
+  p --> as
   l <--> g
   l <--> i
   g <--> i
-  s --> e  
+  as --> is  
 ```
 
 ### Labs
