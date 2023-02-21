@@ -20,3 +20,7 @@ Inactive maintainers who express an intent to continue contributing may request 
 Maintainers who have been moved to emeritus status may return to active status when their activity within the project resumes and the current maintainers of the project approve their reactivation.
 
 A OpenWallet Foundation Foundation staff member will provide a report (or maintain an automated means to generate a report) of the most recent GitHub tracked actions for contributors at regular intervals to the TAC.  It will be the TAC's responsibility to act on the data.
+
+## Credits
+
+This document is based on the [Hyperledger Foundation's Inactivity policy](https://toc.hyperledger.org/governing-documents/inactivity.html)

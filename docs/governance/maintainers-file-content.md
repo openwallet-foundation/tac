@@ -45,3 +45,7 @@ The `MAINTAINERS` file SHOULD contain information about how a maintainer is remo
 * What are the reasons a maintainer would be removed from the list of active maintainers
 * How this is proposed; similar to the way in which maintainers are added, one way to do this is via a PR against the `MAINTAINERS` file
 * How an emeritus maintainer becomes active again
+
+## Credits
+
+This document is based on the [Hyperledger Foundation's MAINTAINERS guideline](https://toc.hyperledger.org/guidelines/MAINTAINERS-guidelines.html).

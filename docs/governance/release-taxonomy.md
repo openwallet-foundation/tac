@@ -32,4 +32,6 @@ Feature complete for all features committed to the production release, perhaps w
 
 For a forthcoming production release, we will prepare multiple candidate releases intended to be heavily tested by the community. As we cycle through resolving uncovered issues, we will issue another when no remaining highest or high priority issues remain, and repeat until we feel confident in releasing a production release, with no qualifier. e.g. 1.0.
 
+## Credits
 
+This document is based on the [Hyperledger Foundation's Release Taxonomy policy](https://toc.hyperledger.org/governing-documents/release-taxonomy.html).

@@ -68,3 +68,7 @@ Repositories MUST NOT have these files
 -   Executable binaries and shared library files built by code in the repository \
     This includes `.exe`, `.dll`, `.so`, `.a` and `.dylib` files not otherwise part of a third party
     library.
+
+## Credits
+
+This document is based on the [Hyperledger Foundation's Common Respository Structure guideline](https://toc.hyperledger.org/guidelines/repository-structure.html).
