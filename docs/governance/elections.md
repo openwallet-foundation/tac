@@ -38,5 +38,5 @@ Should the TAC Chair seat become vacant, the vacancy will be filled by using the
 ### TAC "At Large" Representative Vacancy
 Should a TAC "at large" representative seat become vacant, the vacancy will be filled at the next indicative election, by electing a person for a full new term, not by serving out the vacant term.
 
-!!! note "Reasoning"
+!!! question "Why?"
     A TAC "at large" vacancy is not filled immediately because the charter does not specify a lower limit for TAC "at large" representatives; it only specifies an upper limit.
