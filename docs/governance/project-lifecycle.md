@@ -94,7 +94,7 @@ To be considered for the Labs Stage, the project must meet the following require
 * A presentation to at the meeting of the TAC
 * Have a charter document with an intellectual property policy that leverages open licenses, including, in the case of contributions of code, the use of one or more licenses approved as “open” by the Open Source Initiative.  The staff of the OpenWallet Foundation can assist projects in preparing a technical charter following the OpenWallet Foundation’s standard template.
 * In the case of existing projects, an agreement to transfer the project name and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
-* Upon acceptance, Labs projects must list their status prominently on their website/README
+* Upon acceptance, Labs must list their status prominently on their website/README
 
 ### Growth Stage
 **Definition** 
@@ -177,4 +177,4 @@ Projects may be granted Emeritus status via a two-thirds vote from the TAC and w
 
 ## Annual Review Process
 
-The TAC shall develop an [annual review process](project-annual-review-process.md) to determine whether projects are in the stage that accurately reflects their needs and goals. 
+Each project will undergo an [annual review process](project-annual-review-process.md) to determine whether projects are in the stage that accurately reflects their needs and goals.
