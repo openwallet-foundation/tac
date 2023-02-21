@@ -27,6 +27,9 @@ The following is the default timeline for voting. The times can be adjusted to a
 * A ballot will be distributed on: E-7 days
 * The election will be completed on: Noon PT, E-day and election results are announced
 
+!!! abstract "Nominations"
+    Nominees should outline their qualifications and provide a statement explaining why they would be a good choice for the seat.
+
 ## Vacancies
 
 ### TAC Chair Vacancy
@@ -35,5 +38,5 @@ Should the TAC Chair seat become vacant, the vacancy will be filled by using the
 ### TAC "At Large" Representative Vacancy
 Should a TAC "at large" representative seat become vacant, the vacancy will be filled at the next indicative election, by electing a person for a full new term, not by serving out the vacant term.
 
-!!! info
-    The reason that the TAC "at large" vacancy is not filled immediately is that the charter does not specify a lower limit for TAC "at large" representatives; it only specifies an upper limit.
+!!! note "Reasoning"
+    A TAC "at large" vacancy is not filled immediately because the charter does not specify a lower limit for TAC "at large" representatives; it only specifies an upper limit.
