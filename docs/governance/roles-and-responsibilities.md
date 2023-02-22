@@ -17,14 +17,15 @@ The OpenWallet Foundation charter states that the TAC is responsible for:
 ### TAC Members
 TAC members are expected to:
 
-* Subscribe to the TAC mailing list and the OpenWallet Github organization to stay aware of the TAC related updates and issues.
+* Subscribe to the TAC mailing list and the OpenWallet Github organization to stay aware of the TAC related updates and issues
 * Regularly participate in the TAC meetings
 * Bring up and help resolve any issues related to the needs of the OpenWallet technical community
 * Participate in, and optionally chair, the Task Forces set up by the TAC to address specific issues
-* Act as stewards for OpenWallet Foundation promoting and helping grow the organization and its activities by engaging of their own accord in activities such as posting on social media, responding to questions raised in forums, helping new community members find their way around, and giving talks at conferences on OpenWallet Foundation related topics.
+* Act as stewards for OpenWallet Foundation promoting and helping grow the organization and its activities by engaging of their own accord in activities such as posting on social media, responding to questions raised in forums, helping new community members find their way around, and giving talks at conferences on OpenWallet Foundation related topics
+* Participate in the appointment and election of "at large" representatives
 
 ### TAC Chair
 The TAC chair has the following additional responsibilities:
 
 * Running the TAC meetings, such as the TAC calls per the agreed upon schedule. This includes: setting up and publishing an agenda, running the meeting, and ensuring any outcome is duly recorded
-* Representing the TAC, and more broadly the OpenWallet Foundation technical community, on the Governing Board, and give updates to the Governing Board on TAC activities
+* Representing the TAC, and more broadly the OpenWallet Foundation technical community, on the Governing Board, and giving updates to the Governing Board on TAC activities
