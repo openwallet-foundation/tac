@@ -2,6 +2,8 @@
 
 # Archiving Inactive Repositories
 
+OpenWallet Foundation very much appreciates the contributions of the community; however, it is important to archive source repositories that have become inactive in order to ensure that others in the community are not using code or reporting issues on a repository that is not being maintained.
+
 Any repository that has not had a release for 12 months or that has had no commits for 6 months may be archived.
 
 Projects will be notified via a PR in the appropriate repository, as well as a notice in the project appropriate Discord channel and mailing list, if they exist.
