@@ -14,7 +14,7 @@ The TAC will be responsible for:
 2. making recommendations to the Budget Committee of resource priorities for _Technical Projects_;
 3. electing annually a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken and who will also serve on the Governing Board as the TAC’s representative (the “TAC Representative”);
 4. creating, maintaining and amending project lifecycle procedures and processes, deciding where _Technical Projects_ fall within that lifecycle;
-5. determining when a technical project should be admitted as a Technical Project or any Technical Project should be considered a TAC Project; and
+5. determining when a technical project should be admitted as a _Technical Project_ or any _Technical Project_ should be considered a TAC Project; and
 6. such other matters related to the technical role of the TAC as may be communicated to the TAC by the Governing Board.
 
 ## Voting Members
