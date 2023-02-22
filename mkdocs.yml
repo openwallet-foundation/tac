@@ -73,6 +73,7 @@ nav:
   - Introduction: index.md
   - Governing Documents:
     - Introduction: governance/index.md
+    - Charter: governance/charter.md
     - Antitrust Policy: governance/antitrust.md
     - Code of Conduct: governance/code-of-conduct.md
     - Roles and Responsibilities: governance/roles-and-responsibilities.md

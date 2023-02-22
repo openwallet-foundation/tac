@@ -3,7 +3,7 @@
 # Roles and Responsibilities
 
 ## Technical Advisory Council
-The OpenWallet Foundation charter states that the TAC is responsible for:
+The [OpenWallet Foundation charter](charter.md) states that the TAC is responsible for:
 
 !!! quote
     1. maintaining an overall strategic vision for technical collaboration and coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;

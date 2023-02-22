@@ -7,7 +7,7 @@ This governance policy describes how an open source project can formally join th
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all OpenWallet Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources.
 
-Capitalized terms not otherwise defined in this Project Lifecycle Policy have the meanings ascribed to them in the Funding Charter of the OpenWallet Foundation.
+Capitalized terms not otherwise defined in this Project Lifecycle Policy have the meanings ascribed to them in the [Charter of the OpenWallet Foundation](charter.md).
 
 ## Project Proposal Process
 

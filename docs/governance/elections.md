@@ -3,16 +3,16 @@
 # Elections
 
 ## Electing a Chair
-!!! quote "From the OWF Charter"
+!!! quote "From the [OWF Charter](charter.md)"
     The TAC is responsible for ... electing annually a chairperson to preside over meetings, set the agenda for meetings, ensure meeting minutes are taken and who will also serve on the Governing Board as the TAC’s representative (the “TAC Representative”).
 
-The TAC voting members (as defined by the charter) will elect a chair on a yearly basis. Only TAC voting members are eligible to run for the TAC chair seat. Electing a chair will be completed through the [voting process outlined below](#voting-process). If the TAC chair must leave their position during their term or is otherwise unable to fulfill their duties, they should submit a resignation and allow the TAC to [fill the vacancy using the process outlined below](#tac-chair-vacancy).
+The TAC voting members (as defined by the [charter](charter.md)) will elect a chair on a yearly basis. Only TAC voting members are eligible to run for the TAC chair seat. Electing a chair will be completed through the [voting process outlined below](#voting-process). If the TAC chair must leave their position during their term or is otherwise unable to fulfill their duties, they should submit a resignation and allow the TAC to [fill the vacancy using the process outlined below](#tac-chair-vacancy).
 
 ## Electing "At Large" Representatives
-!!! quote "Implied from the OWF Charter"
+!!! quote "Implied from the [OWF Charter](charter.md)"
     The TAC is responsible for ... appointing up to two "at large" representatives to the TAC.
 
-The TAC voting members (as defined by the charter) can appoint up to two "at large" representatives to the TAC. The election process for "at large" representatives will occur on a yearly basis. Members of the community can nominate themselves for the position. Alternatively, a TAC voting member can nominate a member of the community; however, the nominee must actively affirm their candidacy. Electing "at large" representatives will be completed through the [voting process outlined below](#voting-process). If the "at large" representative must leave their position during their term or is otherwise unable to fulfill their duties, they should submit a resignation. "At large" vacancies will be [handled using the process outlined below](#tac-at-large-representative-vacancy).
+The TAC voting members (as defined by the [charter](charter.md)) can appoint up to two "at large" representatives to the TAC. The election process for "at large" representatives will occur on a yearly basis. Members of the community can nominate themselves for the position. Alternatively, a TAC voting member can nominate a member of the community; however, the nominee must actively affirm their candidacy. Electing "at large" representatives will be completed through the [voting process outlined below](#voting-process). If the "at large" representative must leave their position during their term or is otherwise unable to fulfill their duties, they should submit a resignation. "At large" vacancies will be [handled using the process outlined below](#tac-at-large-representative-vacancy).
 
 ## Voting Process
 
@@ -39,4 +39,4 @@ Should the TAC Chair seat become vacant, the vacancy will be filled by using the
 Should a TAC "at large" representative seat become vacant, the vacancy will be filled at the next indicative election, by electing a person for a full new term, not by serving out the vacant term.
 
 !!! question "Why?"
-    A TAC "at large" vacancy is not filled immediately because the charter does not specify a lower limit for TAC "at large" representatives; it only specifies an upper limit.
+    A TAC "at large" vacancy is not filled immediately because the [charter](charter.md) does not specify a lower limit for TAC "at large" representatives; it only specifies an upper limit.

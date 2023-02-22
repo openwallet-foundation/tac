@@ -3,9 +3,9 @@
 # Technical Advisory Council
 
 !!! note
-    The role, responsibilities, and voting members sections were copied from the OpenWallet Foundation charter.
+    The role, responsibilities, and voting members sections were copied from the [OpenWallet Foundation charter](governance/charter.md).
 
-The role of the Technical Advisory Council (TAC) is to facilitate communication and collaboration among the _Technical Projects_. _Technical Projects_ are defined by the OWF charter as "various open source, open data and/or other open projects relating to or supporting development of digital wallets, including infrastructure and support initiatives related thereto" that have been approved by a two-thirds vote of the TAC to join the OpenWallet Foundation. (See the [Project Lifecycle](governance/project-lifecycle.md) for more information.)
+The role of the Technical Advisory Council (TAC) is to facilitate communication and collaboration among the _Technical Projects_. _Technical Projects_ are defined by the [OWF charter](governance/charter.md) as "various open source, open data and/or other open projects relating to or supporting development of digital wallets, including infrastructure and support initiatives related thereto" that have been approved by a two-thirds vote of the TAC to join the OpenWallet Foundation. (See the [Project Lifecycle](governance/project-lifecycle.md) for more information.)
 
 ## Responsibilities
 The TAC will be responsible for:
