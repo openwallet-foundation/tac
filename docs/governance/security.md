@@ -7,7 +7,7 @@ The OpenWallet Foundation's Vulnerability Management Team (VMT) is responsible f
 
 ### Team Members
 
-* Two volunteer developers will serve on the security team.
+* Two volunteer developers from each OWF project will serve on the security team.
 * Each volunteer will have a 12 month commitment to the security team.
 
 ### Responsibilities
@@ -35,7 +35,7 @@ The VMT has the following responsibilities:
 !!! example "Example Update"
     Dear _hacker_,
 
-    I'm emailing to let you know that we have confirmed your bug report as a valid security concern and have filed a bug in our system. We will reply to you again when the status of the bug changes.
+    I'm emailing to let you know that we have confirmed your bug report as a valid security concern and have filed a bug in our system. We will keep you informed of the status of the bug.
 
     Thank you,
 
