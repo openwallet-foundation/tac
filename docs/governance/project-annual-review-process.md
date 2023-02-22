@@ -1,6 +1,7 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 The TAC will undertake an annual review of all OpenWallet Foundation projects. This annual review will include an assessment as to whether:
+
 * each Lab is active and making adequate progress towards the Growth Stage
 * each Growth Stage project is making adequate progress towards the Impact Stage
 * each Impact Stage project is maintaining progress to remain at the Impact Stage
