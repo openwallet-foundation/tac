@@ -5,9 +5,10 @@
 ## Overview
 This governance policy describes how an open source project can formally join the OpenWallet Foundation via the [Project Proposal Process](#project-proposal-process). It describes the [Stages](#stages) a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process](#annual-review-process) through which those changes will be evaluated and made. 
 
-Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all OpenWallet Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources.
+Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all OpenWallet Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and Foundation resources.
 
-Capitalized terms not otherwise defined in this Project Lifecycle Policy have the meanings ascribed to them in the [Charter of the OpenWallet Foundation](charter.md).
+!!! info
+    Capitalized terms not otherwise defined in this Project Lifecycle Policy have the meanings ascribed to them in the [Charter of the OpenWallet Foundation](charter.md).
 
 ## Project Proposal Process
 
@@ -15,6 +16,9 @@ Capitalized terms not otherwise defined in this Project Lifecycle Policy have th
 This governance policy sets forth the proposal process for projects to be accepted into the OpenWallet Foundation. The process is the same for both existing projects which seek to move into the OpenWallet Foundation and new projects to be formed within the OpenWallet Foundation.
 
 ### Project Proposal Requirements
+!!! bug
+    Add  link to the GitHub repo where projects must me proposed.
+
 Projects must be formally proposed via GitHub. Project proposals submitted to the OpenWallet Foundation should provide the following information to the best of their ability:
 
 * name of project
@@ -79,9 +83,9 @@ Labs are those which the TAC believes are, or have the potential to be, importan
 **Examples**
 
 1. Experimental code that is designed to extend one or more OpenWallet Foundation projects with functionality or interoperability libraries. 
-1. Independent code that fit within the Foundation mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
+1. Independent code that fits within the Foundation's mission and provides potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
 1. Code commissioned or sanctioned by the OpenWallet Foundation.
-1. Any code that realistically intends to join the Growth or later stages in the future and wishes to lay the foundations for that transition.
+1. Any code that realistically intends to join the Growth or later stages in the future and wishes to lay the foundation for that transition.
 
 **Expectations**
 
@@ -91,17 +95,17 @@ End users should evaluate Labs with care, as this stage does not set requirement
 
 To be considered for the Labs Stage, the project must meet the following requirements:
 
-* A presentation to at the meeting of the TAC
+* A presentation at the meeting of the TAC
 * Have a charter document with an intellectual property policy that leverages open licenses, including, in the case of contributions of code, the use of one or more licenses approved as “open” by the Open Source Initiative.  The staff of the OpenWallet Foundation can assist projects in preparing a technical charter following the OpenWallet Foundation’s standard template.
-* In the case of existing projects, an agreement to transfer the project name and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
-* Upon acceptance, Labs must list their status prominently on their website/README
+* In the case of existing projects, an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
+* Upon acceptance, Labs must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Lab).
 
 ### Growth Stage
 **Definition** 
 
 The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the TAC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor into broad success and adoption.
 
-In order to support their active development, projects in the Growth stage have a higher level of access to foundation resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the TAC may ask the project to move to the Labs stage if progress on the plan drops off or stalls. 
+In order to support their active development, projects in the Growth stage have a higher level of access to Foundation resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the TAC may ask the project to move to the Labs stage if progress on the plan drops off or stalls. 
 
 **Examples**
 
@@ -140,21 +144,20 @@ The Impact Stage is for projects that have reached their growth goals and are no
 
 **Expectations**
 
-Impact Stage projects are expected to participate actively in TAC proceedings, and as such have a binding vote on TAC matters requiring a formal vote, such as the election of a TAC representative. They receive ongoing financial and marketing support from the Foundation, and are expected to cross promote the foundation along with their activities.
+Impact Stage projects are expected to participate actively in TAC proceedings, and as such have a binding vote on TAC matters requiring a formal vote, such as the election of a TAC representative. They receive ongoing financial and marketing support from the Foundation, and are expected to cross promote the Foundation along with their activities.
 
 **Acceptance Criteria**
 
-To graduate from Labs or Growth status, or for a new project to join as an Impact project, a project must meet the Growth stage criteria plus:
+To move from Labs or Growth status, or for a new project to join as an Impact project, a project must meet the Growth stage criteria plus:
 
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than one-third is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
- * Have a healthy number of committers from at least two organizations. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
+ * Have a healthy number of maintainers from at least two organizations. A maintainer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Have a Code of Conduct in a form acceptable to the OpenWallet Foundation.
- * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
- * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
+ * Explicitly define a project governance and maintainer process. This is preferably laid out in a `GOVERNANCE.md` file and references a `CONTRIBUTING.md` and `MAINTAINERS.md` file showing the current and emeritus maintainers (see [MAINTAINERS.md File Contents](maintainers-file-content.md) for more information).
+ * Have a public list of project adopters for at least the primary repo (e.g., `ADOPTERS.md` or logos on the project website).
  * Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
  * Receive a supermajority vote from the TAC to move to Impact stage. Projects can move directly from Labs to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
-
 
 ### Emeritus Stage
 **Definition**
@@ -168,7 +171,7 @@ Emeritus projects are projects which the maintainers feel have reached or are ne
 
 **Expectations**
 
-Projects in this stage are not in active development. Their maintainers may infrequently monitor their repositories, and may only push updates to address security issues, if at all. Emeritus projects should clearly state their status and what any user or contributor should expect in terms of response or support. If there is an alternative project the maintainers recommend, it should be listed as well. The foundation will continue to hold the IP and any trademarks and domains, but the project does not draw on foundation resources. 
+Projects in this stage are not in active development. Their maintainers may infrequently monitor their repositories, and may only push updates to address security issues, if at all. Emeritus projects should clearly state their status and what any user or contributor should expect in terms of response or support. If there is an alternative project the maintainers recommend, it should be listed as well. The Foundation will continue to hold the IP and any trademarks and domains, but the project does not draw on Foundation resources. 
 
 **Acceptance Criteria**
 
