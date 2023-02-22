@@ -29,9 +29,9 @@ The following are the governing documents used by the OpenWallet Foundation's Te
 * what is the timeframe and process that is followed when a security bug is reported
 
 ## [Project Lifecycle](project-lifecycle.md)
-* states that a project will go through during the life of a project
-* requirements for entering and exiting each state
-* recurring processes to ensure the project is in the right lifecycle state
+* stages that a project will go through during the life of a project
+* requirements for entering and exiting each stage
+* recurring processes to ensure the project is in the right lifecycle stage
 
 ## [Repository Contents](common-repository-structure.md)
 * what files are required in a GitHub repository
