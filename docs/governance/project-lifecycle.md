@@ -177,6 +177,8 @@ Projects in this stage are not in active development. Their maintainers may infr
 
 Projects may be granted Emeritus status via a two-thirds vote from the TAC and with approval from project ownership. In cases where there is a lack of project ownership, only a two-thirds vote from the TAC is required.
 
+!!! info
+    If members of the community would like to re-active a project that has been granted Emeritus status, the community must start the lifecycle over again by submitting a new proposal to the TAC.
 
 ## Annual Review Process
 
