@@ -40,3 +40,9 @@ Should a TAC "at large" representative seat become vacant, the vacancy will be f
 
 !!! question "Why?"
     A TAC "at large" vacancy is not filled immediately because the [charter](charter.md) does not specify a lower limit for TAC "at large" representatives; it only specifies an upper limit.
+
+### TAC Premier Sponsor Representative Vacancy
+Should a TAC premier sponsor representative seat become vacant, the premier sponsor will immediately appoint a new representative.
+
+### TAC Project Representative Vacancy
+Should a TAC Project representative seat become vacant, the technical oversight body (e.g., a technical steering committee) for the TAC project will immediately appoint a new representative.
