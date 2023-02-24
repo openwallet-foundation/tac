@@ -22,7 +22,7 @@ The voting members of the TAC consist of:
 
 1. one representative appointed by each Premier Sponsor;
 2. up to two “at large” representatives appointed by vote of the TAC; and
-3. one representative appointed by the technical oversight body (e.g., a technical steering committee) of each TAC Project (as defined herein).
+3. one representative appointed by the technical oversight body (e.g., a technical steering committee) of each TAC Project (as defined in the [charter](governance/charter.md)).
 
 ## Meetings
 TAC meetings are intended to be open to observe by Sponsors, contributors to any TAC Project and others in the general public interested in the OpenWallet Foundation.
