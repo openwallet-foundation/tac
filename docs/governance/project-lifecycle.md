@@ -16,10 +16,7 @@ Project progression - movement from one stage to another - allows projects to pa
 This governance policy sets forth the proposal process for projects to be accepted into the OpenWallet Foundation. The process is the same for both existing projects which seek to move into the OpenWallet Foundation and new projects to be formed within the OpenWallet Foundation.
 
 ### Project Proposal Requirements
-!!! bug
-    Add  link to the GitHub repo where projects must me proposed.
-
-Projects must be formally proposed via GitHub. Project proposals submitted to the OpenWallet Foundation should provide the following information to the best of their ability:
+Projects must be formally [proposed via GitHub](https://github.com/openwallet-foundation/project-proposals). Project proposals submitted to the OpenWallet Foundation should provide the following information to the best of their ability:
 
 * name of project
 * project description (what it does, why it is valuable, origin and history)
