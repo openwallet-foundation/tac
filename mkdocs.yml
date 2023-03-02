@@ -1,4 +1,5 @@
 site_name: Technical Advisory Council
+repo_name: tkuhrt/owf-tac-proposal
 repo_url: https://github.com/tkuhrt/owf-tac-proposal
 theme:
   name: material
@@ -24,12 +25,12 @@ theme:
   - navigation.expand
   - navigation.footer
   - navigation.instant
+  - navigation.path
   - navigation.tabs
   - navigation.tabs.sticky
   - navigation.top
   - navigation.tracking
   - toc.follow
-  - toc.integrate
 markdown_extensions:
   - abbr
   - admonition
@@ -69,6 +70,18 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/openwallet-foundation
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/yjvGPd5FCU
+    - icon: fontawesome/solid/envelope
+      link: https://lists.openwallet.foundation
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/OpenWallet_Fdn
+    - icon: fontawesome/solid/globe
+      link: https://openwallet.foundation
 nav:
   - Introduction: index.md
   - Governing Documents:
