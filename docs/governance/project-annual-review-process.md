@@ -6,7 +6,7 @@ The TAC will undertake an annual review of all OpenWallet Foundation projects. T
 * each Growth Stage project is making adequate progress towards the Impact Stage
 * each Impact Stage project is maintaining progress to remain at the Impact Stage
 
-The suggested time frame for the review is to start on September 1st and be completed by October 31st with a set of recommendations for each project to improve and/or a recommendation to move a project across stages.
+The suggested time frame for the review is to start on the yearly anniversary of the project being accepted or moving to a new stage. The review will include a set of recommendations for each project to improve and/or recommendation to move a project across stages
 
 Projects can be provided with an extension of time in their current stage (up to the discretion of the TAC).
 
