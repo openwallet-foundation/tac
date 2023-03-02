@@ -156,6 +156,7 @@ To move from Labs or Growth status, or for a new project to join as an Impact pr
  * Explicitly define a project governance and maintainer process. This is preferably laid out in a `GOVERNANCE.md` file and references a `CONTRIBUTING.md` and `MAINTAINERS.md` file showing the current and emeritus maintainers (see [MAINTAINERS.md File Contents](maintainers-file-content.md) for more information).
 * Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
  * Have a public list of project adopters for at least the primary repo (e.g., `ADOPTERS.md` or logos on the project website).
+ * Have a good standing with respect to security.
  * Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
  * Receive a supermajority vote from the TAC to move to Impact stage. Projects can move directly from Labs to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
 
