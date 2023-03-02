@@ -95,10 +95,10 @@ nav:
     - Project Annual Review Process: governance/project-annual-review-process.md
     - Common Repository Structure: governance/common-repository-structure.md
     - MAINTAINERS.md File Contents: governance/maintainers-file-content.md
-    - Release Taxonomy: governance/release-taxonomy.md
     - Maintainer Inactivity: governance/maintainer-inactivity.md
-    - Archiving Inactive Repositories: governance/archiving-inactive-repositories.md
     - Security Policy: governance/security.md
+    - Release Taxonomy: governance/release-taxonomy.md
+    - Archiving Inactive Repositories: governance/archiving-inactive-repositories.md
   - Meetings:
     - Introduction: meetings/index.md
     - 2023-03-08: meetings/2023-03-08.md 
