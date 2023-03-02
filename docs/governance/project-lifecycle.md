@@ -75,14 +75,14 @@ flowchart
 ### Labs
 **Definition** 
 
-Labs are those which the TAC believes are, or have the potential to be, important to the ecosystem of Technical Projects or the open wallet ecosystem as a whole. They may be early-stage code just getting started, or they may be long-established projects with minimal resource needs. The Labs stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other OpenWallet Foundation projects via the graduation process.
+Labs are those which the TAC believes are, or have the potential to be, important to the ecosystem of Technical Projects or the open wallet ecosystem as a whole. They may be early-stage code just getting started, or they may be long-established projects with minimal resource needs. The Labs stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other OpenWallet Foundation projects via the project lifecycle process.
 
 **Examples**
 
 1. Experimental code that is designed to extend one or more OpenWallet Foundation projects with functionality or interoperability libraries. 
 1. Independent code that fits within the Foundation's mission and provides potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
 1. Code commissioned or sanctioned by the OpenWallet Foundation.
-1. Any code that realistically intends to join the Growth or later stages in the future and wishes to lay the foundation for that transition.
+1. Any code that intends to join the Growth or later stages in the future and wishes to lay the foundation for that transition.
 
 **Expectations**
 
@@ -92,7 +92,8 @@ End users should evaluate Labs with care, as this stage does not set requirement
 
 To be considered for the Labs Stage, the project must meet the following requirements:
 
-* Have a charter document with an intellectual property policy that leverages the Apache 2.0 license or an open license that has been approved by the OpenWallet Foundation's Governing Board. The staff of the OpenWallet Foundation can assist projects in preparing a technical charter following the OpenWallet Foundation’s standard template.
+* Submit a [project proposal](https://github.com/openwallet-foundation/project-proposals#instructions-for-proposing-a-project) with a Preferred Maturity Level of `Labs`.
+* Document an intellectual property policy that leverages the Apache 2.0 license or an open license that has been approved by the OpenWallet Foundation's Governing Board.
 * In the case of existing projects, an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
 * Upon acceptance, Labs must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Lab).
 
