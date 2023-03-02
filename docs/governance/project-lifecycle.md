@@ -80,7 +80,7 @@ Labs are those which the TAC believes are, or have the potential to be, importan
 **Examples**
 
 1. Experimental code that is designed to extend one or more OpenWallet Foundation projects with functionality or interoperability libraries. 
-1. Independent code that fits within the Foundation's mission and provides potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
+1. Independent code that fits within the Foundation's mission and provides potential to meet an unfulfilled need.
 1. Code commissioned or sanctioned by the OpenWallet Foundation.
 1. Any code that intends to join the Growth or later stages in the future and wishes to lay the foundation for that transition.
 
@@ -127,6 +127,7 @@ To be considered for Growth Stage, the project must meet the Labs requirements a
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
 * Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
 * Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
+* Demonstrates how this project differs from existing projects in the Growth and Impact stages.
 * Receive a two-thirds supermajority vote of the TAC to move to Growth Stage. 
 
 ### Impact Stage
