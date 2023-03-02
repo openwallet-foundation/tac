@@ -100,7 +100,7 @@ To be considered for the Labs Stage, the project must meet the following require
 ### Growth Stage
 **Definition** 
 
-The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the TAC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor into broad success and adoption.
+The Growth Stage is for projects that are interested in reaching the Impact Stage, and have identified a growth plan for doing so. Growth Stage projects will receive mentorship from the TAC and are expected to actively develop their community of contributors, governance, project documentation, roadmap, and other variables identified in the growth plan that factor into broad success and adoption.
 
 In order to support their active development, projects in the Growth stage have a higher level of access to Foundation resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the TAC may ask the project to move to the Labs stage if progress on the plan drops off or stalls. 
 
@@ -121,9 +121,10 @@ To be considered for Growth Stage, the project must meet the Labs requirements a
 
 * 2 TAC sponsors to champion the project and provide mentorship as needed
 * Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
+* Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
 * Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
-* Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan.
+* Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
 * Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
 * Receive a two-thirds supermajority vote of the TAC to move to Growth Stage. 
 
