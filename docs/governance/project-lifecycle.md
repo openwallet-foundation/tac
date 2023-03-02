@@ -39,7 +39,7 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
 * infrastructure needs or requests 
 
 ### Project Acceptance Process
-* Projects are required to present their proposal at a TAC meeting
+* Projects are required to present their proposal at a TAC meeting.
 * The TAC may ask for changes to bring the project into better alignment with the OpenWallet Foundation (adding a governance document to a repository or adopting a Code of Conduct, for example).
 
     !!! warning
@@ -108,7 +108,7 @@ In order to support their active development, projects in the Growth stage have 
 
 1. Projects that are on their way or very likely to become Growth or Impact projects.
 1. Projects that have developed new growth targets or other community metrics for success.
-1. Projects that are looking to create a lifecycle plan (maintainership succession, contributor programs, version planning, etc.)
+1. Projects that are looking to create a lifecycle plan (maintainership succession, contributor programs, version planning, etc.).
 1. Projects that need more active support from the Foundation or TAC mentorship in order to reach their goals. 
 
 **Expectations**
@@ -119,8 +119,8 @@ Projects in the Growth stage are generally expected to move out of the Growth st
 
 To be considered for Growth Stage, the project must meet the Labs requirements as well as the following:
 
-* A presentation at the meeting of the TAC
-* 2 TAC sponsors to champion the project and provide mentorship as needed
+* A presentation at the meeting of the TAC.
+* 2 TAC sponsors to champion the project and provide mentorship as needed.
 * Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
 * Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
 * Document that it is being used successfully in either proof of concepts or pilots by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
