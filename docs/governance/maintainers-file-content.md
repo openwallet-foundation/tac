@@ -9,7 +9,7 @@ The first thing that MUST be included in the `MAINTAINERS` file is a list of the
 It is recommended that the lists be sorted alphabetically and contain the maintainers name, GitHub ID, LFID, Chat ID, Email, Company Affiliation, and Scope.
 
 !!! success "Important"
-    * There MUST be at least one reliable mechanism to contact the maintainer (either chat ID or email).
+    * The email for a maintainer MUST be specified and be a reliable mechanism to contact the maintainer.
     * Scope is dependent on the project and may not exist for a given project. Scope could be the whole project, a specific repository, specific directories in a repository, or high-level description of responsibility (e.g., Documentation).
 
 The following shows the suggested format for the information:
@@ -17,14 +17,14 @@ The following shows the suggested format for the information:
 !!! example
     **Active Maintainers**
 
-    | Maintainer | GitHub ID | LFID | Chat ID | Email | Company Affiliation | Scope |
-    | ---------- | --------- | ---- | ------- | ----- | ------------------- | ----- |
+    | Maintainer | GitHub ID | LFID | Email | Chat ID | Company Affiliation | Scope |
+    | ---------- | --------- | ---- | ----- | ------- | ------------------- | ----- |
     |            |           |      |         |       |                     |       |
 
     **Emeritus Maintainers**
 
-    | Maintainer | GitHub ID | LFID | Chat ID | Email | Company Affiliation | Scope |
-    | ---------- | --------- | ---- | ------- | ----- | ------------------- | ----- |
+    | Maintainer | GitHub ID | LFID | Email | Chat ID | Company Affiliation | Scope |
+    | ---------- | --------- | ---- | ----- | ------- | ------------------- | ----- |
     |            |           |      |         |       |                     |       |
 
 ## What Does Being a Maintainer Entail
