@@ -25,5 +25,4 @@ The voting members of the TAC consist of:
 3. one representative appointed by the technical oversight body (e.g., a technical steering committee) of each TAC Project (as defined in the [charter](governance/charter.md)).
 
 ## Meetings
-TAC meetings are intended to be open to observe by Sponsors, contributors to any TAC Project and others in the general public interested in the OpenWallet Foundation.
-
+Find the meeting details, agendas, and past recordings under the [Meetings tab](./meetings/).
