@@ -123,7 +123,7 @@ To be considered for Growth Stage, the project must meet the Labs requirements a
 * 2 TAC sponsors to champion the project and provide mentorship as needed
 * Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
 * Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
-* Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+* Document that it is being used successfully in either proof of concepts or pilots by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
 * Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan and roadmap.
 * Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
@@ -154,6 +154,7 @@ To move from Labs or Growth status, or for a new project to join as an Impact pr
  * Have a healthy number of maintainers from at least two organizations. A maintainer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Have a Code of Conduct in a form acceptable to the OpenWallet Foundation.
  * Explicitly define a project governance and maintainer process. This is preferably laid out in a `GOVERNANCE.md` file and references a `CONTRIBUTING.md` and `MAINTAINERS.md` file showing the current and emeritus maintainers (see [MAINTAINERS.md File Contents](maintainers-file-content.md) for more information).
+* Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
  * Have a public list of project adopters for at least the primary repo (e.g., `ADOPTERS.md` or logos on the project website).
  * Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
  * Receive a supermajority vote from the TAC to move to Impact stage. Projects can move directly from Labs to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
