@@ -92,7 +92,6 @@ End users should evaluate Labs with care, as this stage does not set requirement
 
 To be considered for the Labs Stage, the project must meet the following requirements:
 
-* A presentation at the meeting of the TAC
 * Have a charter document with an intellectual property policy that leverages the Apache 2.0 license or an open license that has been approved by the OpenWallet Foundation's Governing Board. The staff of the OpenWallet Foundation can assist projects in preparing a technical charter following the OpenWallet Foundation’s standard template.
 * In the case of existing projects, an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
 * Upon acceptance, Labs must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Lab).
@@ -119,6 +118,7 @@ Projects in the Growth stage are generally expected to move out of the Growth st
 
 To be considered for Growth Stage, the project must meet the Labs requirements as well as the following:
 
+* A presentation at the meeting of the TAC
 * 2 TAC sponsors to champion the project and provide mentorship as needed
 * Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
 * Development of a project roadmap that provides differentiated features and capabilities and the timeframe for completion.
