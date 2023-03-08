@@ -1,6 +1,6 @@
 site_name: Technical Advisory Council
-repo_name: tkuhrt/owf-tac-proposal
-repo_url: https://github.com/tkuhrt/owf-tac-proposal
+repo_name: openwallet-foundation/tac
+repo_url: https://github.com/openwallet-foundation/tac
 theme:
   name: material
   logo: assets/project-logo.png
