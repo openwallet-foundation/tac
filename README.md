@@ -2,9 +2,11 @@
 
 # OpenWallet Foundation Technical Advisory Council Website Proposal
 
-This repository is a proposal for the OpenWallet Foundation's Technical
-Advisory Council (TAC). It contains the governance documentation and other
+This repository contains the website for the OpenWallet Foundation's
+Technical Advisory Council (TAC), including governance documentation and other
 information relevant to the TAC.
+
+To see a rendered version of these documents, visit: [openwallet-foundation.github.io/tac](https://openwallet-foundation.github.io/tac/).
 
 This repository uses MkDocs. For full documentation visit
 [mkdocs.org](https://www.mkdocs.org).
