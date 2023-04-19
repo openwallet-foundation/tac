@@ -97,6 +97,7 @@ nav:
     - MAINTAINERS.md File Contents: governance/maintainers-file-content.md
     - Maintainer Inactivity: governance/maintainer-inactivity.md
     - Security Policy: governance/security.md
+    - Task Force Process: governance/task-force-process.md
     - Release Taxonomy: governance/release-taxonomy.md
     - Archiving Inactive Repositories: governance/archiving-inactive-repositories.md
   - Meetings:
