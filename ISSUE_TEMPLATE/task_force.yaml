@@ -1,0 +1,51 @@
+name: Task Force
+title: "Task Force Proposal: <name of task force>"
+description: Propose a new task force
+labels: ["task force"]
+assignees: "@openwallet-foundation/tac"
+body:
+  - type: markdown
+    attributes:
+      value: "A _task force_ is a group that is focused on a task with limited scope and fixed time to complete. A task force can be created by anyone in the OpenWallet Foundation community and must be proposed to and approved by the TAC."
+  - type: textarea
+    id: intro
+    attributes:
+      label: Introduction/background material
+      description: Provide an overview of the proposed task force and any relevant background material
+    validations:
+      required: true
+  - type: textarea
+    id: objectives
+    attributes:
+      label: Objectives
+      description: What are the objectives of the proposed task force?
+    validations:
+      required: true
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: List of deliverables or work products
+      description: Provide a list of deliverables or work products that will be created by the proposed task force
+    validations:
+      required: true
+  - type: input
+    id: timeToComplete
+    attributes:
+      label: Time to Complete
+      description: How long will it take for the proposed task force to complete (should not be longer than 6 months)?
+    validations:
+      required: true
+  - type: textarea
+    id: leader
+    attributes:
+      label: Leader
+      description: Who will lead the proposed task force?
+    validations:
+      required: true
+  - type: textarea
+    id: participants
+    attributes:
+      label: Initial Participant List
+      description: Provide a list of initial participants for the proposed task force
+    validations:
+      required: true
