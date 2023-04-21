@@ -1,6 +1,6 @@
 ![OpenWallet Foundation Logo](https://openwallet.foundation/wp-content/uploads/sites/11/2023/02/OpenWallet_Logo_Color-with-descriptor.svg)
 
-# OpenWallet Foundation Technical Advisory Council Website Proposal
+# OpenWallet Foundation Technical Advisory Council Website
 
 This repository contains the website for the OpenWallet Foundation's
 Technical Advisory Council (TAC), including governance documentation and other
