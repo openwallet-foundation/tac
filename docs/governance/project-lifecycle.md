@@ -75,7 +75,7 @@ flowchart
 ### Labs
 **Definition** 
 
-Labs are those which the TAC believes are, or have the potential to be, important to the ecosystem of Technical Projects or the open wallet ecosystem as a whole. They may be early-stage code just getting started, or they may be long-established projects with minimal resource needs. The Labs stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other OpenWallet Foundation projects via the project lifecycle process.
+[Labs](https://github.com/openwallet-foundation-labs) are those which the TAC believes are, or have the potential to be, important to the ecosystem of Technical Projects or the open wallet ecosystem as a whole. They may be early-stage code just getting started, or they may be long-established projects with minimal resource needs. The Labs stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other OpenWallet Foundation projects via the project lifecycle process.
 
 **Examples**
 
