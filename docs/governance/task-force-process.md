@@ -15,7 +15,10 @@ To propose a task force, create an issue in [the TAC GitHub repository](https://
 ## Approval Process
 The TAC will review the task force proposal first by providing comments in the issue and secondly by bringing the task force proposal to a discussion and vote in a TAC meeting.
 
-The decision of the vote will be documented in the issue. If the task force is approved, a discussion channel in [Discord](https://discord.gg/yjvGPd5FCU) will be created. In addition, we will work with the OpenWallet Foundation program management to schedule a meeting on the [OpenWallet Foundation calendar](https://calendar.google.com/calendar/u/0?cid=Y181MjdhMWRiNjIxZmU3MDczMzg0MjFhOWM0YzdlZjJmNjE2MGI5NzM4MzhjZmRiYjUwZjBkYjMyYWQwZmQyMGViQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). If necessary, a GitHub repository will also be created at the request of the task force leader(s).
+The decision of the vote will be documented in the issue. If the task force is approved, a discussion channel in [Discord](https://discord.gg/yjvGPd5FCU) will be created. In addition, we will work with the [OpenWallet Foundation operations team](mailto:operations@openwallet.foundation?subject=New%20Task%20Force) to schedule a meeting on the [OpenWallet Foundation calendar](https://calendar.google.com/calendar/u/0?cid=Y181MjdhMWRiNjIxZmU3MDczMzg0MjFhOWM0YzdlZjJmNjE2MGI5NzM4MzhjZmRiYjUwZjBkYjMyYWQwZmQyMGViQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). If necessary, a GitHub repository and/or mailing list will also be created at the request of the task force leader(s).
+
+## Task Force Procedures
+The task force can decide on the mechanism for creating the deliverables. Meeting minutes and a log of decisions that have been made should be kept for ensuring continuity of the task force. The task force should update the issue to reflect where the meeting notes and log of decisions is kept or use the issue directly to capture this information.
 
 ## Reporting on Task Force Completion of Deliverables
 Upon completion of the task force's deliverables, the task force should arrange a time with the TAC chair to present the deliverables at a TAC meeting. This can be accomplished by sending an email to [the TAC mailing list](https://lists.openwallet.foundation/g/tac) at  [tac@lists.openwallet.foundation](mailto:tac@lists.openwallet.foundation).
