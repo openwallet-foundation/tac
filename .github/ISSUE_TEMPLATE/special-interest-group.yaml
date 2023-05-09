@@ -1,0 +1,44 @@
+name: Special Interest Group
+title: "Special Interest Group Proposal: <name of special interest group"
+description: Propose a new special interest group
+labels: ["SIG"]
+assignees: "@openwallet-foundation/tac"
+body:
+  - type: markdown
+    attributes:
+      value: "A _special interest group (SIG)_ under the Technical Advisory Council (TAC) is a group with a shared interest in advancing a specific area of knowledge, learning, or technology related to the mission of the OpenWallet Foundation where members cooperate to affect or to produce solutions within their particular field. Unlike a task force, SIGs are typically long running and may or may not produce any deliverables. A SIG can be created by anyone in the OpenWallet Foundation community and must be proposed to and approved by the TAC."
+  - type: textarea
+    id: intro
+    attributes:
+      label: Introduction/background material
+      description: Provide an overview of the proposed special interest group and any relevant background material
+    validations:
+      required: true
+  - type: textarea
+    id: objectives
+    attributes:
+      label: Objectives
+      description: What are the objectives of the proposed special interest group?
+    validations:
+      required: true
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: List of deliverables or work products (optional)
+      description: Provide a list of deliverables or work products that will be created by the proposed special interest group
+    validations:
+      required: false
+  - type: textarea
+    id: leader
+    attributes:
+      label: Leader
+      description: Who will lead the proposed special interest group?
+    validations:
+      required: true
+  - type: textarea
+    id: participants
+    attributes:
+      label: Initial Participant List
+      description: Provide a list of initial participants for the proposed special interest group
+    validations:
+      required: true
