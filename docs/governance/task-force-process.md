@@ -1,6 +1,6 @@
 # Task Force
 
-A _task force_ is a group that is focused on a task with limited scope and fixed time to complete. A task force can be created by anyone in the OpenWallet Foundation community and must be proposed to and approved by the TAC.
+A _task force_ is a group that is focused on a task with limited scope and fixed time to complete. Unlike a (special interest group](./special-interest-group-process.md), a task force will have a specific set of deliverables or work products that it will create and be limited in time to completion. A task force can be created by anyone in the OpenWallet Foundation community and must be proposed to and approved by the TAC.
 
 ## Propose a Task Force
 To propose a task force, create an issue in [the TAC GitHub repository](https://github.com/openwallet-foundation/tac/issues). The issue should be named "Task Force Proposal: _\<name of task force\>_". The issue should include the following information:
