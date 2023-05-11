@@ -97,11 +97,10 @@ nav:
     - MAINTAINERS.md File Contents: governance/maintainers-file-content.md
     - Maintainer Inactivity: governance/maintainer-inactivity.md
     - Security Policy: governance/security.md
+    - Special Interest Group (SIG) Process: governance/special-interest-group-process.md
     - Task Force Process: governance/task-force-process.md
     - Release Taxonomy: governance/release-taxonomy.md
     - Archiving Inactive Repositories: governance/archiving-inactive-repositories.md
-    - Task Force Process: governance/task-force-process.md
-    - Special Interest Group (SIG) Process: governance/special-interest-group-process.md
   - Meetings:
     - Introduction: meetings/index.md
     - 2023-05-03: meetings/2023-05-03.md
