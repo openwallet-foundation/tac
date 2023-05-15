@@ -3,7 +3,7 @@
 A _special interest group (SIG)_ under the Technical Advisory Council (TAC) is a group with a shared interest in advancing a specific area of knowledge, learning, or technology related to the mission of the OpenWallet Foundation where members cooperate to affect or to produce solutions within their particular field. Unlike a [task force](./task-force-process.md), SIGs are typically long running and may or may not produce any deliverables. A SIG can be created by anyone in the OpenWallet Foundation community and must be proposed to and approved by the TAC.
 
 ## Propose a Special Interest Group
-To propose a special interest group, create an issue in [the TAC GitHub repository](https://github.com/openwallet-foundation/tac/issues) using the Special Interest Group template. The issue should be named "Special Interst Group Proposal: _\<name of special interest group\>_". The issue should include the following information:
+To propose a special interest group, create an issue in [the TAC GitHub repository](https://github.com/openwallet-foundation/tac/issues) using the Special Interest Group template. The issue should be named "Special Interest Group Proposal: _\<name of special interest group\>_". The issue should include the following information:
 
 * Introduction/background material
 * Objectives of the special interest group
