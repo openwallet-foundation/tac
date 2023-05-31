@@ -112,6 +112,7 @@ nav:
     - 2023-03-08: meetings/2023-03-08.md 
   - Special Interest Groups
     - Introduction: SIGs/index.md
+    - Architecture: SIGs/architecture.md
     - Credential Format Comparison: SIGs/credential-format-comparison.md
   - Task Forces
     - Introduction: task-forces/index.md
