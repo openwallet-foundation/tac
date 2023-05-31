@@ -110,10 +110,10 @@ nav:
     - 2023-04-05: meetings/2023-04-05.md
     - 2023-03-22: meetings/2023-03-22.md 
     - 2023-03-08: meetings/2023-03-08.md 
-  - Special Interest Groups
+  - Special Interest Groups:
     - Introduction: SIGs/index.md
     - Architecture: SIGs/architecture.md
     - Credential Format Comparison: SIGs/credential-format-comparison.md
-  - Task Forces
+  - Task Forces:
     - Introduction: task-forces/index.md
     - OID4VC Due Diligence: task-forces/OID4VC-due-diligence.md
