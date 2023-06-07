@@ -110,6 +110,7 @@ nav:
     - 2023-04-05: meetings/2023-04-05.md
     - 2023-03-22: meetings/2023-03-22.md 
     - 2023-03-08: meetings/2023-03-08.md 
+  - Projects: projects.md
   - Special Interest Groups:
     - Introduction: SIGs/index.md
     - Architecture: SIGs/architecture.md
