@@ -29,3 +29,9 @@ The TAC chair has the following additional responsibilities:
 
 * Running the TAC meetings, such as the TAC calls per the agreed upon schedule. This includes: setting up and publishing an agenda, running the meeting, and ensuring any outcome is duly recorded
 * Representing the TAC, and more broadly the OpenWallet Foundation technical community, on the Governing Board, and giving updates to the Governing Board on TAC activities
+
+### TAC Vice Chair
+The TAC vice chair has the following additional responsibilities:
+
+* Running the TAC meetings when the TAC Chair is unable, including setting up and publishing an agenda and ensuring any outcome is duly recorded
+* Helping to marshall people who want to talk during a meeting 
