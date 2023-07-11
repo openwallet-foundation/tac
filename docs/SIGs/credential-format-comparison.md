@@ -7,6 +7,7 @@ It consists of a “credential format comparison matrix”, containing informati
 
 * Article: https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/credential-profile-comparison.pdf
 * Source Code: https://github.com/openwallet-foundation/credential-format-comparison-sig
+* Rendered Matrix: https://openwallet-foundation.github.io/credential-format-comparison-sig/#/
 
 This SIG was accepted by the TAC on [May 31, 2023](../meetings/2023-05-31.md). See [Credential Format Comparison SIG Proposal](https://github.com/openwallet-foundation/tac/issues/26) for more details.
 
