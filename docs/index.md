@@ -1,6 +1,59 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
 # Technical Advisory Council
+<div class="grid cards" markdown>
+
+-   :material-information-variant:{ .lg .middle } __What is the Technical Advisory Council__
+
+    ---
+
+    Learn more about the Technical Advisory Council's role, responsibilities, and voting members.
+
+    [:octicons-arrow-right-24: Introduction](#introduction)
+
+-   :material-scale-balance:{ .lg .middle } __Governing Documents__
+
+    ---
+
+    Review the OpenWallet Foundation TAC Governing Documents
+
+    [:octicons-arrow-right-24: Governing Documents](governance/index.md)
+
+-   :material-calendar-blank:{ .lg .middle } __TAC Meetings__
+
+    ---
+
+    See meeting invite details and meeting notes from past meetings
+
+    [:octicons-arrow-right-24: Meetings](meetings/index.md)
+
+-   :material-source-repository:{ .lg .middle } __Projects__
+
+    ---
+
+    OpenWallet Foundation Projects
+
+    [:octicons-arrow-right-24: Projects](projects.md)
+
+-   :material-account-group:{ .lg .middle } __Special Interest Groups__
+
+    ---
+
+    OpenWallet Foundation Special Interest Groups (SIGs)
+
+    [:octicons-arrow-right-24: SIGs](SIGs/index.md)
+
+-   :material-format-list-checkbox:{ .lg .middle } __Task Forces__
+
+    ---
+
+    OpenWallet Foundation Task Forces
+
+    [:octicons-arrow-right-24: Task Forces](task-forces/index.md)
+
+</div>
+
+## Introduction
 
 !!! note
     The role, responsibilities, and voting members sections were copied from the [OpenWallet Foundation charter](governance/charter.md).

@@ -83,7 +83,7 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://openwallet.foundation
 nav:
-  - Introduction: index.md
+  - Technical Advisory Council: index.md
   - Governing Documents:
     - Introduction: governance/index.md
     - Charter: governance/charter.md
