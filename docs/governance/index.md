@@ -4,46 +4,46 @@
 
 The following are the governing documents used by the OpenWallet Foundation's Technical Advisory Council.
 
-## [Code of Conduct](code-of-conduct.md)
-* define clear expectations for behavior
-* specify what happens when those behaviors are not met
-* process for reporting code of conduct violations
+## Foundation Governance
 
-## [Roles and Responsibilities](roles-and-responsibilities.md)
-* roles - different ways that people may participate within the technical community
-* responsibilities - activities and tasks that are expected for each of those roles
+The OpenWallet Foundation is governed by the following documents, of which the Technical Advisory Council follows:
 
-## [Elections](elections.md)
-* what elections exist
-* when are elections held
-* what is the voting process
-* what happens when a vacancy occurs
+<div class="grid cards" markdown>
 
-## [Project Lifecycle](project-lifecycle.md)
-* stages that a project will go through during the life of a project
-* requirements for entering and exiting each stage
-* recurring processes to ensure the project is in the right lifecycle stage (see [Project Annual Review Process](project-annual-review-process.md))
+- :octicons-log-24:{.lg .middle } __[Charter](charter.md)__
+- :material-scale-balance:{.lg .middle } __[Antitrust Policy](antitrust.md)__
+- :material-account-heart:{.lg .middle } __[Code of Conduct](code-of-conduct.md)__
 
-## [Common Repository Structure](common-repository-structure.md)
-* what files are required in a GitHub repository
-* what files have specific required content
-* what files are recommended in a GitHub repository
+</div>
 
-## [Maintainers Inactivity Policy](maintainer-inactivity.md)
-* the importance of removing write access from inactive maintainers
-* what is meant by an inactive maintainer, including timeframes and behaviors
-* what happens when a maintainer becomes inactive
+## Technical Advisory Council Governance
 
-## [Security Policy](security.md)
-* how to report a security bug
-* who is responsible for handling security issues and how those people are selected
-* what is the timeframe and process that is followed when a security bug is reported
+The Technical Advisory Council is governed with the following documents:
 
-## [Release Taxonomy](release-taxonomy.md)
-* what release taxonomy is used by the projects
-* details on the release taxonomy
+<div class="grid cards" markdown>
 
-## [Repository Inactivity Policy](archiving-inactive-repositories.md)
-* the importance of archiving an inactive repository
-* what is meant by an inactive repository, including timeframes
-* what happens when a repository becomes inactive
+- :fontawesome-solid-people-roof:{ .lg .middle } __[Roles and Responsibilities](roles-and-responsibilities.md)__
+- :material-account-switch-outline:{ .lg .middle } __[TAC Alternate Policy](alternate-policy.md)__
+- :material-vote:{ .lg .middle } __[Elections](elections.md)__
+- :fontawesome-solid-sitemap:{ .lg .middle } __[Project Lifecycle](project-lifecycle.md)__
+- :fontawesome-solid-people-line:{ .lg .middle } __[Special Interest Groups](special-interest-group-process.md)__
+- :material-format-list-checkbox:{ .lg .middle } __[Task Forces](task-force-process.md)__
+
+</div>
+
+## Project Requirements
+
+The Technical Advisory Council has created the following requirements for projects:
+
+<div class="grid cards" markdown>
+
+- :fontawesome-solid-magnifying-glass:{ .lg .middle } __[Project Annual Review Process](project-annual-review-process.md)__
+- :material-folder-table-outline:{ .lg .middle } __[Common Repository Structure](common-repository-structure.md)__
+- :material-file-document-outline:{ .lg .middle } __[MAINTAINERS.md File Contents](maintainers-file-content.md)__
+- :material-bed-clock:{ .lg .middle } __[Maintainer Inactivity](maintainer-inactivity.md)__
+- :material-security:{ .lg .middle } __[Security Policy](security.md)__
+- :octicons-package-24:{ .lg .middle } __[Release Taxonomy](release-taxonomy.md)__
+- :material-archive-clock-outline:{ .lg .middle } __[Archiving Inactive Repositories](archiving-inactive-repositories.md)__
+
+</div>
+

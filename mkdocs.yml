@@ -84,24 +84,7 @@ extra:
       link: https://openwallet.foundation
 nav:
   - Home: index.md
-  - Governing Documents:
-    - Introduction: governance/index.md
-    - Charter: governance/charter.md
-    - Antitrust Policy: governance/antitrust.md
-    - Code of Conduct: governance/code-of-conduct.md
-    - Roles and Responsibilities: governance/roles-and-responsibilities.md
-    - Alternate Policy: governance/alternate-policy.md
-    - Elections: governance/elections.md
-    - Project Lifecycle: governance/project-lifecycle.md
-    - Project Annual Review Process: governance/project-annual-review-process.md
-    - Common Repository Structure: governance/common-repository-structure.md
-    - MAINTAINERS.md File Contents: governance/maintainers-file-content.md
-    - Maintainer Inactivity: governance/maintainer-inactivity.md
-    - Security Policy: governance/security.md
-    - Special Interest Group (SIG) Process: governance/special-interest-group-process.md
-    - Task Force Process: governance/task-force-process.md
-    - Release Taxonomy: governance/release-taxonomy.md
-    - Archiving Inactive Repositories: governance/archiving-inactive-repositories.md
+  - Governing Documents: governance/index.md
   - Meetings:
     - Introduction: meetings/index.md
     - 2023-07-12: meetings/2023-07-12.md
