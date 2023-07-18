@@ -78,7 +78,7 @@ representatives, the Outreach Committee Chair, invited guests and OWF staff.
       1. The GAC will provide advice to OWF on issues of public policy, and especially where there may be an interaction between OWF's activities and national policies, laws or international agreements.
       1. The Governing Board may appoint a chairperson of the GAC or delegate responsibility for selecting a chairperson to the GAC. The GAC chairperson or another person chosen by the GAC chairperson will serve as the “GAC Representative” responsible for reporting progress back to the Governing Board and interfacing with the TAC. The GAC Representative may attend meetings of the Governing Board and TAC as a non-voting member.
 
-  1. **Technical Advisory Council**
+1. <a name="TAC"></a>**Technical Advisory Council**
 
       1. The role of the TAC is to facilitate communication and collaboration among the Technical Projects. The TAC will be responsible for:
 
