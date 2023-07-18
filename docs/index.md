@@ -4,11 +4,11 @@ Welcome to the OpenWallet Foundation's (OWF) Technical Advisory Council (TAC) we
 
 <div class="grid cards" markdown>
 
--   :material-information-variant:{ .lg .middle } __[What is the Technical Advisory Council](governance/charter.md#TAC)__ 
+-   :material-information-variant:{ .lg .middle } __[What is the TAC](governance/charter.md#TAC)__ 
 
     ---
 
-    Learn more about the Technical Advisory Council's role, responsibilities, and voting members.
+    Learn more about the Technical Advisory Council's role, responsibilities, and voting members
 
 -   :material-scale-balance:{ .lg .middle} __[Governing Documents](governance/index.md)__
 
