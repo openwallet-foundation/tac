@@ -26,19 +26,19 @@ Welcome to the OpenWallet Foundation's (OWF) Technical Advisory Council (TAC) we
 
     ---
 
-    OpenWallet Foundation Projects
+    Explore the OpenWallet Foundation Projects
 
 -   :material-account-group:{ .lg .middle} __[Special Interest Groups](SIGs/index.md)__
 
     ---
 
-    OpenWallet Foundation Special Interest Groups (SIGs)
+    Join an OpenWallet Foundation Special Interest Groups (SIGs)
 
 -   :material-format-list-checkbox:{ .lg .middle} __[Task Forces](task-forces/index.md)__
 
     ---
 
-    OpenWallet Foundation Task Forces
+    Work on an OpenWallet Foundation Task Forces
 
 </div>
 
