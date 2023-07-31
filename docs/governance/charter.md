@@ -2,7 +2,7 @@
 <p style="text-align: center;"><b><u>Exhibit B</u></b></p>
 <p style="text-align: center;"><b>The OpenWallet Foundation Charter</b></p>
 <p style="text-align: center;">Linux Foundation Europe</p>
-<p style="text-align: center;">Effective January 15, 2023</p>
+<p style="text-align: center;">Effective May 22, 2023</p>
 
 1. **Mission and Scope of the OpenWallet Foundation.**
 
@@ -95,7 +95,7 @@ representatives, the Outreach Committee Chair, invited guests and OWF staff.
           1. up to two “at large” representatives appointed by vote of the TAC; and
           1. one representative appointed by the technical oversight body (e.g., a technical steering committee) of each TAC Project (as defined herein).
 
-      1. TAC meetings are intended to be open to observe by Sponsors, contributors to any TAC Project and others in the general public interested in the OpenWallet Foundation.
+      1. TAC meetings are intended to be open to observe by Sponsors, contributors to any TAC Project and others in the general public interested in the OpenWallet Foundation. The TAC may decide whether to allow named representatives (one per voting member) to attend as an alternate.
       1. At the start of the OWF, “TAC Projects” are those Technical Projects listed as having voting representatives on the TAC on the Directed Fund’s web site. Thereafter, any Technical Project can become a TAC Project through the approval of the Technical Project’s technical oversight body and the TAC (by a two-third’s vote). The TAC may approve and modify a project lifecycle policy that will address the incubation, archival and other stages of TAC Projects.
       1. The TAC representatives will elect a chair to preside over meetings, ensure minutes are taken and drive the TAC agenda with input from the TAC representatives.
 
