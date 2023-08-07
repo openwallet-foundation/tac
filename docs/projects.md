@@ -8,5 +8,5 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](./governanc
 
 | Approval Date | Project Name                           | Lifecycle Stage |
 | ------------- | -------------------------------------- | --------------- |
-| 2023-May-17   | [SD-JWT Kotlin Library](https://github.com/openwallet-foundation-labs/SD-JWT-Kotlin) | Lab |
-| 2023-May-17   | SD-JWT Python Reference Implementation | Lab |
+| 2023-May-17   | [SD-JWT Kotlin Library](https://github.com/openwallet-foundation-labs/sd-jwt-kotlin) | Lab |
+| 2023-May-17   | [SD-JWT Python Reference Implementation](https://github.com/openwallet-foundation-labs/sd-jwt-python) | Lab |
