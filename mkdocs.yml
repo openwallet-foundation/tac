@@ -92,13 +92,6 @@ extra:
       link: https://twitter.com/OpenWallet_Fdn
     - icon: fontawesome/solid/globe
       link: https://openwallet.foundation
-plugins:
-  - git-committers:
-      repository: openwallet-foundation/tac
-      branch: main
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: timeago
 nav:
   - Home: index.md
   - Governing Documents: governance/index.md
