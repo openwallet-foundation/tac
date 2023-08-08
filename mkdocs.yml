@@ -1,6 +1,8 @@
 site_name: Technical Advisory Council
 repo_name: openwallet-foundation/tac
 repo_url: https://github.com/openwallet-foundation/tac
+edit_uri: edit/main/docs
+copyright: "Copyright &copy; OpenWallet Foundation<br/>License: CC BY 4.0"
 theme:
   name: material
   logo: assets/project-logo.png
@@ -22,14 +24,20 @@ theme:
         name: Switch to light mode
   features:
   - content.code.copy
+  - content.action.view
   - navigation.expand
   - navigation.footer
+  - navigation.indexes
   - navigation.instant
+  - navigation.instant.prefetch
   - navigation.path
+  - navigation.sections
   - navigation.tabs
   - navigation.tabs.sticky
   - navigation.top
   - navigation.tracking
+  - search.highlight
+  - search.suggest
   - toc.follow
 markdown_extensions:
   - abbr
@@ -74,6 +82,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/openwallet-foundation
+    - icon: fontawesome/solid/flask-vial
+      link: https://github.com/openwallet-foundation-labs
     - icon: fontawesome/brands/discord
       link: https://discord.gg/openwalletfoundation
     - icon: fontawesome/solid/envelope
@@ -82,11 +92,18 @@ extra:
       link: https://twitter.com/OpenWallet_Fdn
     - icon: fontawesome/solid/globe
       link: https://openwallet.foundation
+plugins:
+  - git-committers:
+      repository: openwallet-foundation/tac
+      branch: main
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
 nav:
   - Home: index.md
   - Governing Documents: governance/index.md
   - Meetings:
-    - Meeting Details: meetings/index.md
+    - meetings/index.md
     - 2023-07-26: meetings/2023-07-26.md
     - 2023-07-12: meetings/2023-07-12.md
     - 2023-06-28: meetings/2023-06-28.md
@@ -100,9 +117,9 @@ nav:
     - 2023-03-08: meetings/2023-03-08.md 
   - Projects: projects.md
   - Special Interest Groups:
-    - SIGs: SIGs/index.md
+    - SIGs/index.md
     - Architecture: SIGs/architecture.md
     - Credential Format Comparison: SIGs/credential-format-comparison.md
   - Task Forces:
-    - Task Forces: task-forces/index.md
+    - task-forces/index.md
     - OID4VC Due Diligence: task-forces/OID4VC-due-diligence.md

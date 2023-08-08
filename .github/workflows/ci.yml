@@ -21,6 +21,9 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: pip install lxml
+      - run: pip install mkdocs-git-committers-plugin-2
+      - run: pip install mkdocs-git-revision-date-localized-plugin
       - run: pip install pngquant 
       - run: pip install git+https://${MKDOCS_MATERIAL}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
