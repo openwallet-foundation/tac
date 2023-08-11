@@ -22,7 +22,7 @@ Welcome to the OpenWallet Foundation's (OWF) Technical Advisory Council (TAC) we
 
     See meeting invite details and meeting notes from past meetings
 
--   :material-source-repository:{ .lg .middle} __[Projects](projects.md)__
+-   :material-source-repository:{ .lg .middle} __[Projects](projects/index.md)__
 
     ---
 
