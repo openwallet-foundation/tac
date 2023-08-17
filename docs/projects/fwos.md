@@ -1,6 +1,6 @@
 # Farmworker Wallet OS
 
-![Watermelon workers](../assets/projects/fwos/WatermelonWorkers.png)
+![Farmworkers line up to receive care packages](../assets/projects/fwos/Emergency_Relief_Event.png)
 
 ## Project Description
 
