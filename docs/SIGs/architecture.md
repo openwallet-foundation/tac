@@ -1,7 +1,7 @@
 # Architecture Special Interest Group (SIG)
 This SIG is focused on conversations related to the architecture of digital wallet engines.
 
-This SIG was accepted by the TAC on [April 5, 2023](../meetings/2023-04-05.md). 
+This SIG was accepted by the TAC on [April 5, 2023](../meetings/2023/2023-04-05.md). 
 
 ## Participating
 This SIG is an open group. Anyone in the OpenWallet Foundation community can join and participate. There is no formal sign up process. Just show up and participate.
