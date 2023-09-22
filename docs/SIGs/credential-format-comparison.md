@@ -14,4 +14,4 @@ This SIG was accepted by the TAC on [May 31, 2023](../meetings/2023/2023-05-31.m
 ## Participating
 This SIG is an open group. Anyone in the OpenWallet Foundation community can join and participate. There is no formal sign up process. Just show up and participate.
 
-If you are interested in participating, please join the [OpenWallet Foundation Discord](https://discord.com/invite/yjvGPd5FCU) and participate in the discussion in the [#credential-format-comparison-sig](https://discord.com/channels/1022962884864643214/1113500130419671080) channel.
+If you are interested in participating, please join the [OpenWallet Foundation Discord](https://discord.gg/openwalletfoundation) and participate in the discussion in the [#credential-format-comparison-sig](https://discord.com/channels/1022962884864643214/1113500130419671080) channel.
