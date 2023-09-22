@@ -9,3 +9,5 @@ A _special interest group (SIG)_ under the Technical Advisory Council (TAC) is a
 
 * [Architecture](./architecture.md)
 * [Credential Format Comparison](./credential-format-comparison.md)
+* [Digital Wallet and Agent Overviews](digital-wallet-and-agent-overviews.md)
+* [Safe Wallet](./safe-wallet.md)

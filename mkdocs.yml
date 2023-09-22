@@ -120,6 +120,8 @@ nav:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
     - Credential Format Comparison: SIGs/credential-format-comparison.md
+    - Digital Wallet and Agent Overviews: SIGs/digital-wallet-and-agent-overviews.md
+    - Safe Wallet: SIGs/safe-wallet.md
   - Task Forces:
     - task-forces/index.md
     - OID4VC Due Diligence: task-forces/OID4VC-due-diligence.md
