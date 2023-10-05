@@ -11,3 +11,4 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2023-May-17   | [SD-JWT Kotlin](./sd-jwt-kotlin.md)    | Lab             |
 | 2023-May-17   | [SD-JWT Python](./sd-jwt-python.md)    | Lab             |
 | 2023-Aug-09   | [Farmworker Wallet OS](./fwos.md)      | Lab             |
+| 2023-Oct-05   | [Wallet Framework .NET](./wallet-framework-dotnet.md) | Lab |
