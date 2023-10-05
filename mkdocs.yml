@@ -118,6 +118,7 @@ nav:
     - Farmworker Wallet OS: projects/fwos.md
     - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
     - SD-JWT Python: projects/sd-jwt-python.md
+    - Wallet Framework .NET: projects/wallet-framework-dotnet.md
   - Special Interest Groups:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
