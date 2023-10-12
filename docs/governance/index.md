@@ -47,3 +47,13 @@ The Technical Advisory Council has created the following requirements for projec
 
 </div>
 
+## Project Resources
+
+The Technical Advisory Council has created the following requirements for projects:
+
+<div class="grid cards" markdown>
+
+- :fontawesome-solid-magnifying-glass:{ .lg .middle } __[Paid Tooling Policy](paid-tooling-policy.md)__
+- :fontawesome-solid-magnifying-glass:{ .lg .middle } __[Project and Lab Services](project-and-lab-services.md)__
+
+</div>
