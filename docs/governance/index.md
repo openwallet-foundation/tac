@@ -49,11 +49,11 @@ The Technical Advisory Council has created the following requirements for projec
 
 ## Project Resources
 
-The Technical Advisory Council has created the following requirements for projects:
+The Technical Advisory Council offers the following services and tooling to projects:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-magnifying-glass:{ .lg .middle } __[Paid Tooling Policy](paid-tooling-policy.md)__
-- :fontawesome-solid-magnifying-glass:{ .lg .middle } __[Project and Lab Services](project-and-lab-services.md)__
+- :fontawesome-solid-toolbox:{ .lg .middle } __[Paid Tooling Policy](paid-tooling-policy.md)__
+- :fontawesome-solid-icons:{ .lg .middle } __[Project and Lab Services](project-and-lab-services.md)__
 
 </div>
