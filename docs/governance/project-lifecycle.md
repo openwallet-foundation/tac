@@ -89,7 +89,7 @@ End users should evaluate Labs with care, as this stage does not set requirement
 
 To be considered for the Labs Stage, the project must meet the following requirements:
 
-* Complete an [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). This intake from will create:
+* Complete an [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). This intake form will create:
     * A project charter ([sample](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit)) that documents an intellectual property policy that leverages the Apache 2.0 license or a permissive open source license.
     * A collaboration agreement that in the case of existing projects, provides an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
 * Submit a [project proposal](https://github.com/openwallet-foundation/project-proposals#instructions-for-proposing-a-project).
