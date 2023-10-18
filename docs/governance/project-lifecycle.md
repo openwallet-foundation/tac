@@ -19,34 +19,31 @@ This governance policy sets forth the proposal process for projects to be accept
 Projects must be formally [proposed via GitHub](https://github.com/openwallet-foundation/project-proposals). Project proposals submitted to the OpenWallet Foundation should provide the following information to the best of their ability:
 
 * name of project
+* preferred maturity level (see [stages](#stages) below)
 * project description (what it does, why it is valuable, origin and history)
 * statement on alignment with the OpenWallet Foundation mission
 * link to *current* Code of Conduct (if one is adopted already)
 * sponsor from the TAC, if identified (a sponsor helps mentor projects)
-* project license (Apache 2.0 by default)
-* source control (GitHub by default)
-* issue tracker (GitHub by default)
+* project license (permissive open source licenses, Apache 2.0 by default)
+* source control (OpenWallet Foundation GitHub by default)
+* issue tracker (OpenWallet Foundation GitHub by default)
 * external dependencies (including licenses)
 * release methodology and mechanics
 * names of initial maintainers, if different from those submitting proposal
-* briefly describe the project's leadership team and decision-making process
-* link to any documented governance practices
-* preferred maturity level (see [stages](#stages) below)
-* list of project's official communication channels (slack, irc, mailing lists)
-* link to project's website
-* links to social media accounts
-* existing financial sponsorship
-* infrastructure needs or requests 
+* briefly describe the project's leadership team and decision-making process (if one exists)
+* link to any documented governance practices (e.g., the project charter)
+* existing financial sponsorship (if exists)
+* infrastructure needs or requests (OpenWallet Foundation provides a set of [services for projects and labs](./project-and-lab-services.md). Please note which of these you will utilize and what else is required)
 
 ### Project Acceptance Process
-* Projects are required to present their proposal at a TAC meeting.
+* [Impact stage](#impact-stage) and [Growth stage](#growth-stage) projects are required to present their proposal at a TAC meeting. [Labs](#labs) will be reviewed and approved directly via the project proposal PR.
 * The TAC may ask for changes to bring the project into better alignment with the OpenWallet Foundation (adding a governance document to a repository or adopting a Code of Conduct, for example).
 
     !!! warning
 
         The project will need to make these changes in order to progress further.
 
-* Projects are accepted via a two-thirds supermajority vote of the TAC.
+* [Impact stage](#impact-stage) and [Growth stage](#growth-stage) projects are accepted via a two-thirds supermajority vote of the TAC. [Labs](#labs) are accepted via a simple majority of the TAC.
 * Satisfaction of the requirements of the initial stage of the project. The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
 
 ## Stages
@@ -92,10 +89,12 @@ End users should evaluate Labs with care, as this stage does not set requirement
 
 To be considered for the Labs Stage, the project must meet the following requirements:
 
-* Submit a [project proposal](https://github.com/openwallet-foundation/project-proposals#instructions-for-proposing-a-project) with a Preferred Maturity Level of `Labs`.
-* Document an intellectual property policy that leverages the Apache 2.0 license or an open license that has been approved by the OpenWallet Foundation's Governing Board.
-* In the case of existing projects, an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
-* Upon acceptance, Labs must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Lab).
+* Complete an [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). This intake from will create:
+    * A project charter ([sample](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit)) that documents an intellectual property policy that leverages the Apache 2.0 license or a permissive open source license.
+    * A collaboration agreement that in the case of existing projects, provides an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
+* Submit a [project proposal](https://github.com/openwallet-foundation/project-proposals#instructions-for-proposing-a-project).
+
+Upon acceptance, Labs must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Lab).
 
 ### Growth Stage
 **Definition** 
@@ -130,6 +129,8 @@ To be considered for Growth Stage, the project must meet the Labs requirements a
 * Demonstrates how this project differs from existing projects in the Growth and Impact stages.
 * Receive a two-thirds supermajority vote of the TAC to move to Growth Stage. 
 
+Upon acceptance, Growth projects must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Project).
+
 ### Impact Stage
 **Definition**
 
@@ -161,6 +162,8 @@ To move from Labs or Growth status, or for a new project to join as an Impact pr
  * Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
  * Receive a supermajority vote from the TAC to move to Impact stage. Projects can move directly from Labs to Impact, if they can demonstrate sufficient maturity and have met all requirements. 
 
+Upon acceptance, Impact projects must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Project).
+
 ### Emeritus Stage
 **Definition**
 
@@ -178,6 +181,8 @@ Projects in this stage are not in active development. Their maintainers may infr
 **Acceptance Criteria**
 
 Projects may be granted Emeritus status via a two-thirds vote from the TAC and with approval from project ownership. In cases where there is a lack of project ownership, only a two-thirds vote from the TAC is required.
+
+Upon acceptance, Emeritus projects must list their status prominently on their website/README.
 
 !!! info
     If members of the community would like to re-active a project that has been granted Emeritus status, the community must start the lifecycle over again by submitting a new proposal to the TAC.
