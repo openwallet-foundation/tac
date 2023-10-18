@@ -6,6 +6,16 @@
 ## Agenda
 - Include agenda items here.
 
+## TAC Voting Members
+
+- [ ] David Zeuthen
+- [ ] Jeremie Miller
+- [ ] Mike Varley
+- [ ] Pete Cooling
+- [ ] Stavros Kounis
+- [ ] Tracy Kuhrt
+- [ ] Wenjing Chu
+
 ## Notes
 - Include discussion notes here.
 
