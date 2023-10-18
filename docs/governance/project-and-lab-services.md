@@ -1,6 +1,6 @@
 # Project and Lab Services
 
-This document provides details about what resources are available for OpenWallet Foundation projects and labs. If there are any questions about anything on the document or if you'd like to leverage any of these resources for your project or lab, feel free to leave a comment below or reach out to *community-architects at openwallet dot foundation*.
+This document provides details about what resources are available for OpenWallet Foundation projects and labs. If there are any questions about anything on the document or if you'd like to leverage any of these resources for your project or lab, feel free to reach out to *community-architects at openwallet dot foundation*.
 
 | **Service** | **Lab** | **Growth Project** | **Impact Project** |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------|
