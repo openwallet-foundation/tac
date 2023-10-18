@@ -5,7 +5,7 @@
 ## Overview
 This governance policy describes how an open source project can formally join the OpenWallet Foundation via the [Project Proposal Process](#project-proposal-process). It describes the [Stages](#stages) a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process](#annual-review-process) through which those changes will be evaluated and made. 
 
-Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all OpenWallet Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and Foundation resources.
+Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all OpenWallet Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and [Foundation resources](./project-and-lab-services.md).
 
 !!! info
     Capitalized terms not otherwise defined in this Project Lifecycle Policy have the meanings ascribed to them in the [Charter of the OpenWallet Foundation](charter.md).
