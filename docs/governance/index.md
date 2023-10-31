@@ -28,7 +28,7 @@ The Technical Advisory Council is governed with the following documents:
 - :fontawesome-solid-sitemap:{ .lg .middle } __[Project Lifecycle](project-lifecycle.md)__
 - :fontawesome-solid-people-line:{ .lg .middle } __[Special Interest Groups](special-interest-group-process.md)__
 - :material-format-list-checkbox:{ .lg .middle } __[Task Forces](task-force-process.md)__
-- :material-format-list-checkbox:{ .lg .middle } __[Composition](tac.md)__
+- :fontawesome-solid-users-rectangle:{ .lg .middle } __[Composition](tac.md)__
 
 </div>
 
