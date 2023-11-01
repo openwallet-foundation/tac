@@ -143,7 +143,9 @@ nav:
     - 2023-03-08: meetings/2023/2023-03-08.md
   - Projects:
     - projects/index.md
+    - Alloy: projects/alloy.md
     - Farmworker Wallet OS: projects/fwos.md
+    - SD-JWT JavaScript: projects/sd-jwt-js.md
     - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
     - SD-JWT Python: projects/sd-jwt-python.md
     - VC-API: projects/vc-api.md

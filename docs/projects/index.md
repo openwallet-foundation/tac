@@ -13,3 +13,5 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2023-Aug-09   | [Farmworker Wallet OS](./fwos.md)      | Lab             |
 | 2023-Sep-28   | [VC API](./vc-api.md)                  | Lab             |
 | 2023-Oct-05   | [Wallet Framework .NET](./wallet-framework-dotnet.md) | Lab |
+| 2023-Oct-18   | [Alloy](./alloy.md)                    | Lab             |
+| 2023-Nov-01   | [SD-JWT JavaScript](./sd-jwt-js.md)    | Lab             |
