@@ -1,6 +1,6 @@
 # Paid Tooling Policy
 
-OpenWallet Foundation (OWF) provides a number of paid developer tools for projects. Below, we list the ones that our projects currently have access to and are supported by the OWF staff. We emphasize that just because a tool is not on this list does not mean projects cannot use it; it just means that the project maintainers will have to (mostly) support it themselves and even pay for the tooling.
+OpenWallet Foundation (OWF) provides a number of paid developer tools for projects. Below, we list the ones that our projects currently have access to and are supported by the OWF staff. We emphasize that just because a tool is not on this list does not mean projects cannot use it; it just means that the project maintainers may have to support it themselves and may need to pay for the tooling. The Governing Board has final say over the budget for tooling and its support.
 
 OWF recommends the following tools that should be optimal for most projects:
 
