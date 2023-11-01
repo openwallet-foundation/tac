@@ -36,7 +36,7 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
 * infrastructure needs or requests (OpenWallet Foundation provides a set of [services for projects and labs](./project-and-lab-services.md). Please note which of these you will utilize and what else is required)
 
 ### Project Acceptance Process
-* [Impact stage](#impact-stage) and [Growth stage](#growth-stage) projects are required to present their proposal at a TAC meeting. [Labs](#labs) will be reviewed and approved directly via the project proposal PR. [Labs](#labs) may present at a TAC meeting if they would like to gain visibility from other community members, and the proposer should note this in for the proposal.
+* [Impact stage](#impact-stage) and [Growth stage](#growth-stage) projects are required to present their proposal at a TAC meeting. [Labs](#labs) will be reviewed and approved directly via the project proposal PR. [Labs](#labs) may present at a TAC meeting if they would like to gain visibility from other community members, and the proposer should note this in the proposal.
 * The TAC may ask for changes to bring the project into better alignment with the OpenWallet Foundation (adding a governance document to a repository or adopting a Code of Conduct, for example).
 
     !!! warning
