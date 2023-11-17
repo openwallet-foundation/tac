@@ -143,7 +143,7 @@ nav:
     - 2023-03-08: meetings/2023/2023-03-08.md
   - Projects:
     - projects/index.md
-    - Alloy: projects/alloy.md
+    - Android Identity Library: projects/android-identity-library.md
     - Farmworker Wallet OS: projects/fwos.md
     - SD-JWT JavaScript: projects/sd-jwt-js.md
     - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
