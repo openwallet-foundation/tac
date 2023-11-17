@@ -1,4 +1,4 @@
-# Alloy
+# Android Identity Library
 
 ## Project Description
 Libraries and reference applications for working with real-world identity.
@@ -94,10 +94,10 @@ the credential after user consent.
 <!---
 ## Source Repositories
 
-- [openwallet-foundation-labs/alloy](https://github.com/openwallet-foundation-labs/alloy)
+- [openwallet-foundation-labs/android-identity-library](https://github.com/openwallet-foundation-labs/android-identity-library)
 
 
 ## Chat Channel
 
-- [#alloy]() on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
+- [#android-identity-library]() on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
 --->
