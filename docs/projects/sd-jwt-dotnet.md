@@ -4,11 +4,9 @@
 
 A .NET implementation of the [Selective Disclosure for JWTs](https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-04.html) (SD-JWT) specification.
 
-<!---
 ## Source Repositories
 
 - [openwallet-foundation-labs/sd-jwt-dotnet](https://github.com/openwallet-foundation-labs/sd-jwt-dotnet)
---->
 
 ## Chat Channel
 
