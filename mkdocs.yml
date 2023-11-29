@@ -161,6 +161,8 @@ nav:
     - Credential Format Comparison: SIGs/credential-format-comparison.md
     - Digital Wallet and Agent Overviews: SIGs/digital-wallet-and-agent-overviews.md
     - Safe Wallet: SIGs/safe-wallet.md
+    - Quarterly Updates:
+      - 2024: SIGs/updates/2024/index.md
   - Task Forces:
     - task-forces/index.md
     - OID4VC Due Diligence: task-forces/OID4VC-due-diligence.md
