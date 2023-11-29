@@ -3,6 +3,7 @@
 The Special Interest Groups (SIGs) must provide a quarterly update to the TAC to ensure that the SIG is still active and that there is still value in hosting the special interest group. The following calendar provides the timing for when these updates are required to be presented to the TAC:
 
 | Quarter | Special Interest Group                 | TAC Meeting |
+| ------- | -------------------------------------- | ----------- |
 | Q1      | Architecture SIG                       | 2024-01-10  |
 | Q1      | Credential Format Comparison SIG       | 2024-02-07  |
 | Q1      | Digital Wallet and Agent Overviews SIG | 2024-02-21  |
