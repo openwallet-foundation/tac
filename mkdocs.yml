@@ -143,16 +143,18 @@ nav:
     - 2023-03-08: meetings/2023/2023-03-08.md
   - Projects:
     - projects/index.md
-    - Agent Framework JavaScript: projects/agent-framework-js.md
-    - Android Identity Library: projects/android-identity-library.md
-    - Farmworker Wallet OS: projects/fwos.md
-    - SD-JWT .NET: projects/sd-jwt-dotnet.md
-    - SD-JWT JavaScript: projects/sd-jwt-js.md
-    - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
-    - SD-JWT Python: projects/sd-jwt-python.md
-    - SD-JWT Rust: projects/sd-jwt-rust.md
-    - VC-API: projects/vc-api.md
-    - Wallet Framework .NET: projects/wallet-framework-dotnet.md
+    - Growth:
+      - Agent Framework JavaScript: projects/agent-framework-js.md
+    - Labs:
+      - Android Identity Library: projects/android-identity-library.md
+      - Farmworker Wallet OS: projects/fwos.md
+      - SD-JWT .NET: projects/sd-jwt-dotnet.md
+      - SD-JWT JavaScript: projects/sd-jwt-js.md
+      - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
+      - SD-JWT Python: projects/sd-jwt-python.md
+      - SD-JWT Rust: projects/sd-jwt-rust.md
+      - VC-API: projects/vc-api.md
+      - Wallet Framework .NET: projects/wallet-framework-dotnet.md
   - Special Interest Groups:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
