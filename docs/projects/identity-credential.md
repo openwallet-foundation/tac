@@ -1,4 +1,4 @@
-# Android Identity Library
+# Identity Credential
 
 ## Project Description
 Libraries and reference applications for working with real-world identity.
@@ -91,13 +91,11 @@ and then  hitting the `mdoc://` link presented on the site. This will cause the
 browser  to invoke the Wallet app which will then connect to the reader and send
 the credential after user consent.
 
-<!---
 ## Source Repositories
 
-- [openwallet-foundation-labs/android-identity-library](https://github.com/openwallet-foundation-labs/android-identity-library)
+- [openwallet-foundation-labs/identity-credential](https://github.com/openwallet-foundation-labs/identity-credential)
 
 
 ## Chat Channel
 
-- [#android-identity-library]() on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
---->
+- [#identity-credential](https://discord.com/channels/1022962884864643214/1179828955717574707) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
