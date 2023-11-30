@@ -146,8 +146,8 @@ nav:
     - Growth:
       - Agent Framework JavaScript: projects/agent-framework-js.md
     - Labs:
-      - Android Identity Library: projects/android-identity-library.md
       - Farmworker Wallet OS: projects/fwos.md
+      - Identity Credential: projects/identity-credential.md
       - SD-JWT .NET: projects/sd-jwt-dotnet.md
       - SD-JWT JavaScript: projects/sd-jwt-js.md
       - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
