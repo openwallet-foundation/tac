@@ -12,12 +12,10 @@ In order to expand the framework's support for standards beyond the Hyperledger 
 
 ![afj-high-level-arch.png](../assets/projects/afj/afj-high-level-arch.png)
 
-<!---
 ## Source Repositories
 
 - [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 - [openwallet-foundation/agent-framework-javascript-ext](https://github.com/openwallet-foundation/agent-framework-javascript-ext)
---->
 
 ## Chat Channel
 - [#agent-framework-js](https://discord.com/channels/1022962884864643214/1179453305856991263) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
