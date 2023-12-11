@@ -1,6 +1,6 @@
 ---
-name: Change Repo Access
-about: change ACL for repo
+name: Add someone to the OpenWallet GitHub org
+about: request membership change
 title: Change repo ACL
 labels: repo-access
 assignees: ryjones, tkuhrt
