@@ -8,7 +8,7 @@ This document provides details about what resources are available for OpenWallet
 | Github repos | [Yes](https://github.com/openwallet-foundation-labs) | [Yes](https://github.com/openwallet-foundation) | [Yes](https://github.com/openwallet-foundation) |
 | [Chat channel](https://discord.gg/openwalletfoundation) | Yes | Yes | Yes |
 | [Mailing list](https://lists.openwallet.foundation/) | Optional | Yes | Yes |
-| [Paid tooling](./paid-tooling-policy) | Yes (with some restrictions at the discretion of OpenWallet Foundation staff) | Yes | Yes |
+| [Paid tooling](./paid-tooling-policy.md) | Yes (with some restrictions at the discretion of OpenWallet Foundation staff) | Yes | Yes |
 | **Marketing** | | | |
 | Access to OpenWallet Foundation's channels (social, newsletters, blogs, meetups, etc) | Yes (with some restrictions at the discretion of the Marketing lead) | Yes | Yes |
 | [Page on the OpenWallet Foundation site](https://openwallet.foundation/) | | Yes | Yes |
