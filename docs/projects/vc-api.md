@@ -8,11 +8,9 @@ The VC API’s design is informed by use cases across a range of domains. Severa
 
 This project is an implementation of the VC API. The implementation aims to enable organizations and individuals to effortlessly conduct SSI operations over HTTP without requiring technical expertise, making it seamless to integrate into existing projects. 
 
-<!---
 ## Source Repositories
 
 - [openwallet-foundation-labs/vc-api](https://github.com/openwallet-foundation-labs/vc-api)
---->
 
 ## Chat Channel
 
