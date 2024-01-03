@@ -7,7 +7,7 @@ The OpenWallet Foundation's Vulnerability Management Team (VMT) is responsible f
 
 ### Team Members
 
-* Two volunteer developers from each OWF project will serve on the security team.
+* Three volunteer developers from each OWF project will serve on the security team.
 * Each volunteer will have a 12 month commitment to the security team.
 
 ### Responsibilities
@@ -42,14 +42,4 @@ The VMT has the following responsibilities:
     _your name_
 
 ## Security Markdown
-Each project must have the following information included in the `SECURITY.md` file at the root of the project:
-
-```
-# How to Report a Security Bug
-To report a security issue, please email
-[security@lists.openwallet.foundation](mailto:security@lists.openwallet.foundation)
-with a description of the issue, the steps you took to create the issue,
-affected versions, and if known, mitigations for the issue. Our vulnerability
-management team will acknowledge receiving your email within 2 working days.
-This project follows a 90 day disclosure timeline.
-```
+Each project must document their security vulnerability disclosure policy in the `SECURITY.md` file at the root of the project. Please see [security vulnerability disclosure policy](./security-vulnerability-disclosure-policy.md) for more information on the contents of this file.
