@@ -121,6 +121,8 @@ nav:
       - Project and Lab Services: governance/project-and-lab-services.md
   - Meetings:
     - meetings/index.md
+    - 2024:
+      - 2024-01-10: meetings/2024/2024-01-10.md
     - 2023:
       - 2023-12-13: meetings/2023/2023-12-13.md
       - 2023-11-29: meetings/2023/2023-11-29.md
