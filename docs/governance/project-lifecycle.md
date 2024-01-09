@@ -30,7 +30,6 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
 * external dependencies (including licenses)
 * release methodology and mechanics
 * names of initial maintainers, if different from those submitting proposal
-* briefly describe the project's leadership team and decision-making process (if one exists)
 * link to any documented governance practices (e.g., the project charter)
 * existing financial sponsorship (if exists)
 * infrastructure needs or requests (OpenWallet Foundation provides a set of [services for projects and labs](./project-and-lab-services.md). Please note which of these you will utilize and what else is required)
