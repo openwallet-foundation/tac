@@ -113,9 +113,7 @@ nav:
       - Common Repository Structure: governance/common-repository-structure.md
       - MAINTAINERS.md Contents: governance/maintainers-file-content.md
       - Maintainer Inactivity: governance/maintainer-inactivity.md
-      - Security:
-        - Security Policy: governance/security.md
-        - Security Vulnerability Disclosure Policy: governance/security-vulnerability-disclosure-policy.md
+      - Security: governance/security.md
       - Release Taxonomy: governance/release-taxonomy.md
       - Inactive Repositories: governance/archiving-inactive-repositories.md
     - Project Resources:
