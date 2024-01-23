@@ -90,29 +90,21 @@ and release, as described above.
 
 ## Report Intakes
 
-OpenWallet Foundation's projects offer the following ways to submit security
+OpenWallet Foundation's projects use the following mechanism to submit security
 vulnerabilities. While the security team members will do their best to
 respond to bugs disclosed in all possible ways, it is encouraged for bug
-finders to report through the following approved channels:
+finders to report through the following approved channel:
 
-- Email the [OpenWallet Foundation's security list]: To report a security issue, please
-send an email with the name of the project/repository, a description of the issue, the
-steps you took to create the issue, affected versions, and if known,
-mitigations. If in triaging the email, the security team determines the issue may be
-a security vulnerability, a [GitHub security vulnerability report] will be
-opened.
 - Open a [GitHub security vulnerability report]: Open a draft security advisory
 on the "Security" tab of this GitHub repository. See [GitHub Security
 Advisories](#github-security-advisories) to learn more about the security
 infrastructure in GitHub.
 
-[OpenWallet Foundation's security list]: mailto:security@lists.openwallet.foundation
-
 [GitHub security vulnerability report]: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
 
 ??? example "Alternative"
 
-    Projects **MAY** publish in their security policy that they accept security vulnerability disclosures via other mechanism.  The policy **MUST** document the necessary details in using the alternate reporting mechanism(s). In addition, a project **MAY** publish that they don't accept reports via the recommended GitHub security vulnerability process. Projects **MUST** accept reports via the [OpenWallet Foundation's security list].
+    Projects **MAY** publish in their security policy that they accept security vulnerability disclosures via other mechanism.  The policy **MUST** document the necessary details in using the alternate reporting mechanism(s). Projects **MUST** accept reports via the recommended GitHub security vulnerability process.
 
 ## “People” Infrastructure
 
@@ -129,9 +121,8 @@ emergency issue arises. It can be difficult to track down someone with unique
 knowledge (e.g. in a particular area of cryptography) who is capable of
 fixing a problem in a short period of time.
 
-1. Each security team member will be a member of the
-[OpenWallet Foundation's security email list](mailto:security@lists.openwallet.foundation),
-and, in general, any OpenWallet Foundation-wide security infrastructure.
+1. Each security team member will be a member of 
+any OpenWallet Foundation-wide security infrastructure.
 
 2. If a project has specialized code related to certain aspects of security
 or cryptography (e.g. consensus algorithms or cryptographic algorithms), then
