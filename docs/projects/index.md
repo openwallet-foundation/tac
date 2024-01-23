@@ -17,5 +17,5 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2023-Nov-01   | [SD-JWT JavaScript](./sd-jwt-js.md)    | Lab             |
 | 2023-Nov-15   | [SD-JWT Rust](./sd-jwt-rust.md)        | Lab             |
 | 2023-Nov-29   | [SD-JWT .NET](./sd-jwt-dotnet.md)      | Lab             |
-| 2023-Nov-29   | [Agent Framework JavaScript](./agent-framework-js.md) | Growth |
+| 2023-Nov-29   | [Credo](./credo-ts.md)                 | Growth |
 
