@@ -13,9 +13,8 @@ and adjust it as necessary for your project. Notably:
 * See the "**Alternative**" notes in the [OpenWallet Foundation's security vulnerability disclosure policy] document for how the "best practices" in this document can be changed to meet the needs of your project while still adhering to the OpenWallet Foundation's policies.
 
 Once your project's security vulnerability disclosure policy document is
-published, place a copy of it into each of your project's repositories, or
-create a `SECURITY.md` file in each of your project's repositories that links
-back to the primary document.
+published, place a copy of it into each of your project's repositories
+(or link to the main repository's `SECURITY.md`).
 
 [OpenWallet Foundation's security vulnerability disclosure policy]: https://tac.openwallet.foundation/governance/security/
 
