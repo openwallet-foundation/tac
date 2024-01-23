@@ -148,7 +148,7 @@ nav:
   - Projects:
     - projects/index.md
     - Growth:
-      - Agent Framework JavaScript: projects/agent-framework-js.md
+      - Credo: projects/credo-ts.md
     - Labs:
       - Farmworker Wallet OS: projects/fwos.md
       - Identity Credential: projects/identity-credential.md
