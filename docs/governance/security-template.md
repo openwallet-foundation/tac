@@ -16,8 +16,6 @@ Once your project's security vulnerability disclosure policy document is
 published, place a copy of it into each of your project's repositories
 (or link to the main repository's `SECURITY.md`).
 
-[OpenWallet Foundation's security vulnerability disclosure policy]: https://tac.openwallet.foundation/governance/security/
-
 ## About this Document
 This document document defines how security vulnerability reporting is handled
 in this project. The approach aligns with the [OpenWallet Foundation's security
@@ -32,6 +30,8 @@ of that working group](https://github.com/ossf/wg-vulnerability-disclosures).
 If you are already familiar with what a security vulnerabulity disclosure policy
 is and are ready to report a vulnerability, please jump to [Report
 Intakes](#report-intakes).
+
+[OpenWallet Foundation's security vulnerability disclosure policy]: https://tac.openwallet.foundation/governance/security/
 
 ## What Is a Vulnerability Disclosure Policy?
 
