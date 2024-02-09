@@ -15,6 +15,8 @@ If you are already familiar with what a security vulnerabulity disclosure policy
 is and are ready to report a vulnerability, please jump to [Report
 Intakes](#report-intakes).
 
+[OpenWallet Foundation's security vulnerability disclosure policy]: https://tac.openwallet.foundation/governance/security/
+
 ## What Is a Vulnerability Disclosure Policy?
 
 No piece of software is perfect. All software (at least, all software of a
