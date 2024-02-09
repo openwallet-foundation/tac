@@ -75,7 +75,7 @@ Members are added and removed from the team via approved Pull Requests to this
 repository. For additional background into the role of the security team, see
 the [People Infrastructure] section of the [OpenWallet Foundation's security vulnerability disclosure policy].
 
-[People Infrastructure]: https://tac.openwallet.foundation/governance/security#people-infrastructure
+[People Infrastructure]: https://tac.openwallet.foundation/governance/security.md#people-infrastructure
 
 **Responsibilities**:
 
