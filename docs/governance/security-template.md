@@ -27,7 +27,7 @@ Vulnerability Disclosure working group. For up-to-date information on the latest
 recommendations related to vulnerability disclosures, please visit the [GitHub
 of that working group](https://github.com/ossf/wg-vulnerability-disclosures).
 
-If you are already familiar with what a security vulnerabulity disclosure policy
+If you are already familiar with what a security vulnerability disclosure policy
 is and are ready to report a vulnerability, please jump to [Report
 Intakes](#report-intakes).
 
