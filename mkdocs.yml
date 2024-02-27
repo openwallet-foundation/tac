@@ -152,6 +152,7 @@ nav:
     - projects/index.md
     - Growth:
       - Credo: projects/credo-ts.md
+      - Bifold: projects/bifold.md
     - Labs:
       - Farmworker Wallet OS: projects/fwos.md
       - Identity Credential: projects/identity-credential.md
@@ -162,6 +163,7 @@ nav:
       - SD-JWT Rust: projects/sd-jwt-rust.md
       - VC-API: projects/vc-api.md
       - Wallet Framework .NET: projects/wallet-framework-dotnet.md
+      - Multiformat VC for iOS: projects/multiformat-vc-ios.md
   - Special Interest Groups:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
