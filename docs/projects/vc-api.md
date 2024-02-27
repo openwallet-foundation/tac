@@ -15,3 +15,7 @@ This project is an implementation of the VC API. The implementation aims to enab
 ## Chat Channel
 
 - [#vc-api](https://discord.com/channels/1022962884864643214/1157008901020073994) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
+
+## History
+
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/f8e04386e3c45241cf7f6284c8edbdc5e0b65938/projects/vc-api-implementation.md) -- Approved by TAC on [2023-09-28](../meetings/2023/2023-09-28.md)
