@@ -18,4 +18,4 @@ This project is an implementation of the VC API. The implementation aims to enab
 
 ## History
 
-- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/f8e04386e3c45241cf7f6284c8edbdc5e0b65938/projects/vc-api-implementation.md) -- Approved by TAC on [2023-09-28](../meetings/2023/2023-09-28.md)
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/f8e04386e3c45241cf7f6284c8edbdc5e0b65938/projects/vc-api-implementation.md) -- Approved by TAC on [2023-09-28](https://lists.openwallet.foundation/g/TAC/topic/101480852#87)
