@@ -15,3 +15,7 @@ Furthermore, the team is considering the development of SD-JWT credentials as a 
 ## Chat Channel
 
 - [#wallet-framework-dotnet](https://discord.com/channels/1022962884864643214/1159552665940938842) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
+
+## History
+
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/f6283c1e33ea3a78b719e4a94d4b6afad620b8dc/projects/wallet-framework-dotnet.md) -- Approved by TAC on [2023-10-05](../meetings/2023/2023-10-05.md)

@@ -20,3 +20,7 @@ In order to expand the framework's support for standards beyond the Hyperledger 
 
 ## Chat Channel
 - [#credo](https://discord.com/channels/1022962884864643214/1179453305856991263) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
+
+## History
+
+- [Proposal to enter Growth stage](https://github.com/openwallet-foundation/project-proposals/blob/0c565a1267ba2b1bf3f146b4e5871c73a50e1330/projects/agent-framework-javascript/agent-framework-javascript.md) -- Approved by TAC on [2023-11-29](../meetings/2023/2023-11-29.md)

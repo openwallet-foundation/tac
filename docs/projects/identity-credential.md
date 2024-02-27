@@ -99,3 +99,7 @@ the credential after user consent.
 ## Chat Channel
 
 - [#identity-credential](https://discord.com/channels/1022962884864643214/1179828955717574707) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
+
+## History
+
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/d15dfdef8814677af2930c2ad6bf415db5205b07/projects/android-identity-library.md) -- Approved by TAC on [2023-10-18](../meetings/2023/2023-10-18.md)

@@ -63,3 +63,7 @@ The initial version of the digital wallet SDK is being built on top of [Aries Fr
 
 ## Chat Channel
 - [#fwos](https://discord.com/channels/1022962884864643214/1138937641123987466) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
+
+## History
+
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/b4023926b1b59603f124f99329725883019d1b78/projects/farmworker-wallet-os.md) -- Approved by TAC on [2023-08-09](../meetings/2023/2023-08-09.md)
