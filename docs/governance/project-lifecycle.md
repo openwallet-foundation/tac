@@ -3,7 +3,7 @@
 # Project Lifecycle
 
 ## Overview
-This governance policy describes how an open source project can formally join the OpenWallet Foundation via the [Project Proposal Process](#project-proposal-process). It describes the [Stages](#stages) a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process](#annual-review-process) through which those changes will be evaluated and made. 
+This governance policy describes how an open source project can formally join the OpenWallet Foundation via the [Project Proposal Process](#project-proposal-process) and how an existing project within the OpenWallet Foundation can move through the lifecycle via the [Project Stage Change Proposal Process](#project-stage-change-proposal-process). It describes the [Stages](#stages) a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process](#annual-review-process) through which those changes will be evaluated and made. 
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all OpenWallet Foundation projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and [Foundation resources](./project-and-lab-services.md).
 
@@ -43,7 +43,18 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
         The project will need to make these changes in order to progress further.
 
 * [Impact stage](#impact-stage) and [Growth stage](#growth-stage) projects are accepted via a two-thirds supermajority vote of the TAC. [Labs](#labs) are accepted via a simple majority of the TAC.
-* Satisfaction of the requirements of the initial stage of the project. The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
+* Satisfaction of the requirements of the initial stage of the project. The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process.
+
+## Project Stage Change Proposal Process
+
+### Introduction
+This governance policy sets forth the proposal process for projects within the OpenWallet Foundation that are seeking to move to another [stage](#stages) in the project lifecycle.
+
+### Proposal Process
+The project's current proposal located in [Project Proposals GitHub Repository](https://github.com/openwallet-foundation/project-proposals) must be updated via a PR. The project proposal should be updated to reflect the [latest template](https://github.com/openwallet-foundation/project-proposals/blob/main/proposal-template.md), as well as any updates to the sections to reflect why the project should be considered for a new stage.
+
+### Project Stage Change Acceptance Process
+The [same acceptance project outlined above](#project-acceptance-process) will be used for projects wishing to change lifecycle stage.
 
 ## Stages
 Every OpenWallet Foundation project has an associated maturity level. Proposed projects should state their preferred maturity level.
