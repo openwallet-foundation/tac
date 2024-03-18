@@ -10,4 +10,4 @@ assignees: ryjones, tkuhrt
 Please include:
 
 * GitHub ID to removed: 
-* Project to be removed from: 
+* Project to be removed from:
