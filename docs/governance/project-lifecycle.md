@@ -30,7 +30,7 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
 * external dependencies (including licenses)
 * release methodology and mechanics
 * names of initial maintainers, if different from those submitting proposal
-* link to any documented governance practices (e.g., the project charter)
+* link to any documented governance practices (e.g., the project charter) (A project charter can be obtained by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). Here is [sample project charter](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit) that you can review)
 * existing financial sponsorship (if exists)
 * infrastructure needs or requests (OpenWallet Foundation provides a set of [services for projects and labs](./project-and-lab-services.md). Please note which of these you will utilize and what else is required)
 
