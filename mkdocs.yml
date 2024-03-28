@@ -122,6 +122,7 @@ nav:
   - Meetings:
     - meetings/index.md
     - 2024:
+      - 2024-04-03: meetings/2024/2024-04-03.md
       - 2024-03-20: meetings/2024/2024-03-20.md
       - 2024-03-06: meetings/2024/2024-03-06.md
       - 2024-02-21: meetings/2024/2024-02-21.md
