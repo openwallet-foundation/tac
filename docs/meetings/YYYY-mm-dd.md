@@ -9,7 +9,7 @@
 ## TAC Voting Members
 
 - [ ] David Zeuthen
-- [ ] Jeremie Miller
+- [ ] Jaehoon (Ace) Shim
 - [ ] Mike Varley
 - [ ] Pete Cooling
 - [ ] Stavros Kounis

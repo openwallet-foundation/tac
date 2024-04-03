@@ -1,5 +1,10 @@
 # Open Wallet Foundation TAC composition
 
+## 2024-04-03
+- TAC "at large" election results
+    - Ace Shim
+    - Stavros Kounis
+
 ## 2023-03-08
 - Tracy Kuhrt is running unopposed for TAC Chair
 - Composition
