@@ -56,5 +56,6 @@ The Technical Advisory Council offers the following services and tooling to proj
 
 - :fontawesome-solid-toolbox:{ .lg .middle } __[Paid Tooling Policy](paid-tooling-policy.md)__
 - :fontawesome-solid-icons:{ .lg .middle } __[Project and Lab Services](project-and-lab-services.md)__
+- :fontawesome-solid-book:{ .lg .middle } __[Content Plan](content-plan.md)__
 
 </div>
