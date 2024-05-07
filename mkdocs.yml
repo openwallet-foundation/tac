@@ -160,7 +160,7 @@ nav:
       - Bifold: projects/bifold.md
       - Credo: projects/credo-ts.md
     - Labs:
-      - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native
+      - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
       - Farmworker Wallet OS: projects/fwos.md
       - Identity Credential: projects/identity-credential.md
       - Multiformat VC for iOS: projects/multiformat-vc-ios.md

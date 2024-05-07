@@ -14,7 +14,7 @@ Repositories MUST have these files with the specific content in the linked files
         All code within the OpenWallet Foundation should be licensed under Apache 2.0. Exceptions can be made by the OpenWallet Foundation Governing Board.
 
 * [`CODE_OF_CONDUCT.md`](code-of-conduct.md)
-* [`SECURITY.md`](security.md#security-markdown)
+* [`SECURITY.md`](security.md)
 
 ## Required Files with Variable Content
 
