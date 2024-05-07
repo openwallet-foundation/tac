@@ -172,6 +172,11 @@ nav:
       - SD-JWT Rust: projects/sd-jwt-rust.md
       - VC-API: projects/vc-api.md
       - Wallet Framework .NET: projects/wallet-framework-dotnet.md
+    - Annual Reviews:
+      - 2024:
+        - projects/reviews/2024/index.md
+      - 2025:
+        - projects/reviews/2025/index.md
   - Special Interest Groups:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
