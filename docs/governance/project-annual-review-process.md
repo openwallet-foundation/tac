@@ -19,7 +19,7 @@ The [project lifecycle](project-lifecycle.md) contains Acceptance Criteria for m
 
 OpenWallet Foundation staff will notify the project maintainers when the project review is due. 
 
-Project maintainers are responsible for agreeing between them who will complete the annual review. One of the maintainers should create the review in GitHub under [openwallet-foundation/tac/docs/project-reviews](https://github.com/openwallet-foundation/tac/tree/main/docs/project-reviews). 
+Project maintainers are responsible for agreeing between them who will complete the annual review. One of the maintainers should create the review in GitHub under [openwallet-foundation/tac/docs/projects/reviews](https://github.com/openwallet-foundation/tac/tree/main/docs/projects/reviews). 
 
 * Raise a PR titled *[Project name] [year] Annual Review* (e.g., Amazing Project 2024 Annual Review)
 * The PR should include a file called `<year>-<project name>-annual.md` (e.g., `2024-amazingproj-annual.md`) with the [contents described below](#annual-review-contents)
@@ -41,6 +41,8 @@ Your annual review should answer the following questions:
 * What are the current goals of the project? For example, are you working on major new features? Or are you concentrating on adoption or documentation? 
 * How can the OpenWallet Foundation help you achieve your upcoming goals? 
 * Do you think that your project meets the criteria for another stage (see [Project Lifecycle Acceptance Criteria for the different stages](project-lifecycle.md))?
+
+A [template](../projects/reviews/0000-template-annual.md) has been provided for your use.
 
 ## Annual Review by the TAC
 
