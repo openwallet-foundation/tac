@@ -183,3 +183,8 @@ nav:
   - Task Forces:
     - task-forces/index.md
     - OID4VC Due Diligence: task-forces/OID4VC-due-diligence.md
+not_in_nav: |
+  governance/security-template.md
+  meetings/YYYY-mm-dd.md
+  projects/reviews/0000-template-annual.md
+
