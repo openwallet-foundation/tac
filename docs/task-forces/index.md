@@ -7,4 +7,8 @@ A _task force_ is a group that is focused on a task with limited scope and fixed
 
 ## Active Task Forces
 
-* [OID4VC Due Diligence](./OID4VC-due-diligence.md)
+- None currently
+
+## Archived Task Forces
+
+- [OID4VC Due Diligence](./OID4VC-due-diligence.md)
