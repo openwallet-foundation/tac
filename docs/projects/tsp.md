@@ -23,4 +23,4 @@ In addition, we may add and welcome trust task or application specific extension
 
 ## History
 
-- [Proposal to enter Labs]() -- Approved by TAC on [2024-05-15](../meetings/2024/2024-05-15.md)
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/cbdd0477bf98b48d1790d6b5dcbff043db001a4d/projects/rust-tsp.md) -- Approved by TAC on [2024-05-15](../meetings/2024/2024-05-15.md)
