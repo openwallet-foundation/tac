@@ -88,8 +88,8 @@ extra:
       link: https://discord.gg/openwalletfoundation
     - icon: fontawesome/solid/envelope
       link: https://lists.openwallet.foundation
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/OpenWallet_Fdn
+    - icon: fontawesome/regular/calendar-days
+      link: https://zoom-lfx.platform.linuxfoundation.org/meetings/openwalletfoundation
     - icon: fontawesome/solid/globe
       link: https://openwallet.foundation
 nav:
