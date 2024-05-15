@@ -7,6 +7,8 @@ Projects must provide an [annual review](../../../governance/project-annual-revi
 | Multiformat VC for iOS        | Labs   | Jan 24, 2024  | Feb  5, 2025 |
 | Bifold                        | Growth | Feb 21, 2024  | Mar  5, 2025 |
 | EUDI Wallet Kit React Native  | Labs   | Apr 17, 2024  | Apr 30, 2025 |
+| Trust Spanning Protocol       | Labs   | May 15, 2024  | May 14, 2025 |
+| Tuvali                        | Labs   | May 15, 2024  | May 14, 2025 |
 | SD-JWT Python                 | Labs   | May 27, 2023  |              |
 | SD-JWT Kotlin                 | Labs   | May 27, 2023  |              |
 | Farmworker Wallet OS          | Labs   | Aug  9, 2023  |              |
