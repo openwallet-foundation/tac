@@ -34,7 +34,7 @@ If your annual review is not submitted within two months of notification, we wil
 
 Your annual review should answer the following questions: 
 
-* Include a link to your project’s [LFX Insights page](https://insights-v2.lfx.linuxfoundation.org/projects). We will be looking for signs of consistent or increasing contribution activity. Please feel free to add commentary to add colour to the numbers and graphs we will see on Insights.
+* Include information about your project's contributions and activity. We will be looking for signs of consistent or increasing contribution activity. Please feel free to add commentary to add colour to the numbers and graphs we will see on Insights.
 * How many maintainers do you have, and which organisations are they from? (Feel free to link to an existing MAINTAINERS file if appropriate.)
 * What do you know about adoption, and how has this changed since your last review or since being accepted into OWF? If you can list companies that are adopters of your project, please do so. (Feel free to link to an existing ADOPTERS file if appropriate.
 * How has the project performed against its goals since the last review? (We won't penalize you if your goals changed for good reasons.)
