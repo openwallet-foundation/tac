@@ -179,6 +179,7 @@ nav:
         - projects/reviews/2024/index.md
       - 2025:
         - projects/reviews/2025/index.md
+    - Dashboards: projects/dashboards/index.md
   - Special Interest Groups:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
@@ -195,4 +196,6 @@ not_in_nav: |
   governance/security-template.md
   meetings/YYYY-mm-dd.md
   projects/reviews/0000-template-annual.md
+  projects/dashboards/owf.md
+  projects/dashboards/labs.md
 
