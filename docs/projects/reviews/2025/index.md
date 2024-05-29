@@ -9,6 +9,7 @@ Projects must provide an [annual review](../../../governance/project-annual-revi
 | EUDI Wallet Kit React Native  | Labs   | Apr 17, 2024  | Apr 30, 2025 |
 | Trust Spanning Protocol       | Labs   | May 15, 2024  | May 14, 2025 |
 | Tuvali                        | Labs   | May 15, 2024  | May 14, 2025 |
+| Credhub                       | Labs   | May 29, 2024  | May 28, 2025 |
 | SD-JWT Python                 | Labs   | May 27, 2023  |              |
 | SD-JWT Kotlin                 | Labs   | May 27, 2023  |              |
 | Farmworker Wallet OS          | Labs   | Aug  9, 2023  |              |
