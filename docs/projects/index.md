@@ -21,3 +21,4 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2024-Jan-24   | [Multiformat VC for iOS](./multiformat-vc-ios.md) | Lab  |
 | 2024-Feb-21   | [Bifold](./bifold.md)                  | Growth          |
 | 2024-Apr-17   | [EUDI Wallet Kit React Native](./eudi-wallet-kit-react-native.md) | Lab |
+| 2024-May-29   | [Credhub](./credhub.md)                | Lab             |
