@@ -14,4 +14,4 @@ A library which implements the [OpenID4BLE specification](https://openid.net/spe
 
 ## History
 
-- [Proposal to enter Labs]() -- Approved by TAC on [2024-05-15](../meetings/2024/2024-05-15.md)
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/9a14233be826547f8b4ace22af8679fe03da728e/projects/tuvali.md) -- Approved by TAC on [2024-05-15](../meetings/2024/2024-05-15.md)
