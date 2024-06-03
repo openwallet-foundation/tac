@@ -6,8 +6,8 @@
 | ----------------------------------- | ---------------------- |
 | David Zeuthen                       | Google                 |
 | Jaehoon (Ace) Shim                  | At Large               |
-| Rolson Quadras                      | Gen                    |
 | Pete Cooling                        | Visa                   |
+| Rolson Quadras                      | Gen                    |
 | Stavros Kounis (vice chair)         | At Large               |
 | Tracy Kuhrt (chair)                 | Accenture              |
 | Wenjing Chu                         | FutureWei Technologies |
