@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A library which implements the [OpenID4BLE specification](https://openid.net/specs/openid-4-verifiable-presentations-over-ble-1_0.html) for Android & IOS. It's written in Kotlin & Swift.
+A library which implements the [OpenID4BLE specification](https://openid.net/specs/openid-4-verifiable-presentations-over-ble-1_0.html) for Android and IOS. It's written in Kotlin and Swift.
 
 ## Source Repositories
 
