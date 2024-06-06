@@ -172,6 +172,8 @@ nav:
       - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
       - SD-JWT Python: projects/sd-jwt-python.md
       - SD-JWT Rust: projects/sd-jwt-rust.md
+      - Trust Spanning Protocol: projects/tsp.md
+      - Tuvali: projects/tuvali.md
       - VC-API: projects/vc-api.md
       - Wallet Framework .NET: projects/wallet-framework-dotnet.md
     - Annual Reviews:
@@ -191,7 +193,8 @@ nav:
         - SIGs/updates/2024/index.md
   - Task Forces:
     - task-forces/index.md
-    - OID4VC Due Diligence: task-forces/OID4VC-due-diligence.md
+    - Archived:
+        - OID4VC Due Diligence: task-forces/OID4VC-due-diligence.md
 not_in_nav: |
   governance/security-template.md
   meetings/YYYY-mm-dd.md
