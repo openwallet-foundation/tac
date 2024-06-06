@@ -4,9 +4,11 @@
 
 A library which implements the [OpenID4BLE specification](https://openid.net/specs/openid-4-verifiable-presentations-over-ble-1_0.html) for Android and IOS. It's written in Kotlin and Swift.
 
+<!--- Commenting out until source moves over
 ## Source Repositories
 
 - [openwallet-foundation-labs/tuvali](https://github.com/openwallet-foundation-labs/tuvali)
+--->
 
 ## Chat Channel
 
