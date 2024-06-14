@@ -10,6 +10,7 @@ Projects must provide an [annual review](../../../governance/project-annual-revi
 | Trust Spanning Protocol       | Labs   | May 15, 2024  | May 14, 2025 |
 | Tuvali                        | Labs   | May 15, 2024  | May 14, 2025 |
 | Credhub                       | Labs   | May 29, 2024  | May 28, 2025 |
+| MDL JavaScript                | Labs   | Jun 12, 2024  | Jun 11, 2025 |
 | SD-JWT Python                 | Labs   | May 27, 2023  |              |
 | SD-JWT Kotlin                 | Labs   | May 27, 2023  |              |
 | Farmworker Wallet OS          | Labs   | Aug  9, 2023  |              |
