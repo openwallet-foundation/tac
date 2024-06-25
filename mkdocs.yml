@@ -56,8 +56,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -123,6 +123,7 @@ nav:
   - Meetings:
     - meetings/index.md
     - 2024:
+      - 2024-06-26: meetings/2024/2024-06-26.md
       - 2024-06-12: meetings/2024/2024-06-12.md
       - 2024-05-29: meetings/2024/2024-05-29.md
       - 2024-05-15: meetings/2024/2024-05-15.md
@@ -203,4 +204,4 @@ not_in_nav: |
   projects/reviews/0000-template-annual.md
   projects/dashboards/owf.md
   projects/dashboards/labs.md
-
+  projects/reviews/2024/2024-sd-jwt-python-annual.md
