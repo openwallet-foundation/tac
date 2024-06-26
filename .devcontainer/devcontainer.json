@@ -16,4 +16,5 @@
 	"forwardPorts": [
 		8000
 	],
+	"postStartCommand": "mkdocs serve -a 0.0.0.0:8000",
 }
