@@ -12,11 +12,13 @@ There are three stages of an OWF paper -- draft, review, and approved.
 flowchart
   d[Draft]
   r[Review]
+  t{TAC\nDecision}
   a[Approved]
 
-  d --> r
-  r --> d
-  r --> a
+  d -->|Submission| r
+  r --> t
+  t -->|Request Changes| d
+  t -->|Approve| a
 ```
 
 A paper begins as a "draft" and retains this status until submitted to the TAC for review. At this point, the paper will be considered to be in the "review" stage and retains this status until the TAC makes a decision. The TAC may reject the paper for various reasons. If the paper is rejected by the TAC then it will return to a "draft" stage where the community can address the concerns of the TAC. The paper may also be accepted by the TAC, in which case it will be published as an "approved" paper of the OWF technical community. Only after the paper is accepted, may the paper use the "OpenWallet Foundation" trademark. See [required contents](#required-contents) for more information on what should be included within an "approved" paper.
