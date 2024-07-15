@@ -39,9 +39,9 @@ The task force or special interest group lead may submit a version of their pape
 
 The applicable period to review a submitted paper will be no shorter than four weeks. The TAC will make reasonable efforts to provide feedback on the submitted version during the review period and provide any critical comments or objections, with sufficient specificity for the task force or special interest group members to respond and, if required, to facilitate resolution. 
 
-!!! tip
+!!! info
 
-    Comments can be provided by anyone in the OWF community.
+    Comments and feedback can be provided by anyone in the OWF community. The TAC will take into consideration any comments and feedback provided during the review process when making their decision.
 
 ### TAC Decision
 
