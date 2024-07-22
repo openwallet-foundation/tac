@@ -30,7 +30,7 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
 * external dependencies (including licenses)
 * release methodology and mechanics
 * names of initial maintainers, if different from those submitting proposal
-* link to any documented governance practices (e.g., the project charter) (A project charter can be obtained by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). Here is [sample project charter](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit) that you can review)
+* link to any documented governance practices (e.g., the project charter) 
 * existing financial sponsorship (if exists)
 * infrastructure needs or requests (OpenWallet Foundation provides a set of [services for projects and labs](./project-and-lab-services.md). Please note which of these you will utilize and what else is required)
 
@@ -44,6 +44,7 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
 
 * [Impact stage](#impact-stage) and [Growth stage](#growth-stage) projects are accepted via a two-thirds supermajority vote of the TAC. [Labs](#labs) are accepted via a simple majority of the TAC.
 * Satisfaction of the requirements of the initial stage of the project. The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process.
+* If the project is accepted by the TAC, a project charter and contribution agreement (if necessary) can be obtained by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). Here is [sample project charter](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit) that you can review)
 
 ## Project Stage Change Proposal Process
 
@@ -99,12 +100,13 @@ End users should evaluate Labs with care, as this stage does not set requirement
 
 To be considered for the Labs Stage, the project must meet the following requirements:
 
-* Complete an [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). This intake form will create:
-    * A project charter ([sample](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit)) that documents an intellectual property policy that leverages the Apache 2.0 license or a permissive open source license.
-    * A collaboration agreement that in the case of existing projects, provides an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
 * Submit a [project proposal](https://github.com/openwallet-foundation/project-proposals#instructions-for-proposing-a-project).
-
+* If the Lab is accepted by the TAC, the OWF Lab Project will then complete [project intake form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). This intake form will create:
+  * A project charter [(sample)](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit) that documents an intellectual property policy that leverages the Apache 2.0 license or a permissive open source license.
+  * A collaboration agreement that in the case of existing projects, provides an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
+    
 Upon acceptance, Labs must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Lab).
+
 
 ### Growth Stage
 **Definition** 
