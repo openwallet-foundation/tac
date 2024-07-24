@@ -100,7 +100,7 @@ End users should evaluate Labs with care, as this stage does not set requirement
 To be considered for the Labs Stage, the project must meet the following requirements:
 
 * Submit a [project proposal](https://github.com/openwallet-foundation/project-proposals#instructions-for-proposing-a-project).
-    
+
 Upon acceptance, Labs must list their status prominently on their website/README (e.g., PROJECT, an OpenWallet Foundation Lab).
 
 
