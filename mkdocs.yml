@@ -84,12 +84,18 @@ extra:
       link: https://github.com/openwallet-foundation
     - icon: fontawesome/solid/flask-vial
       link: https://github.com/openwallet-foundation-labs
+      name: Labs (GitHub)
     - icon: fontawesome/brands/discord
       link: https://discord.gg/openwalletfoundation
+      name: Discord
     - icon: fontawesome/solid/envelope
       link: https://lists.openwallet.foundation
     - icon: fontawesome/solid/calendar-days
       link: https://zoom-lfx.platform.linuxfoundation.org/meetings/openwalletfoundation
+      name: Community Calendar
+    - icon: material/presentation
+      link: https://drive.google.com/drive/folders/1TW9Och54uAjuKDeYQZ-DUIuNzpDLaLUT?usp=drive_link
+      name: Community Presentations (Google Drive)
     - icon: fontawesome/solid/globe
       link: https://openwallet.foundation
 nav:
