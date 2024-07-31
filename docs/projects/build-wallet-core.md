@@ -1,4 +1,4 @@
-# Begin Wallet Core
+# Build Wallet Core
 
 ## Project Description
 ### What it Does
@@ -30,15 +30,15 @@ Begin.is was founded with the mission to create a more secure and accessible pla
 1. Foundation: The project was initiated by a team of experts in cryptography and blockchain technology who identified the need for a more secure and user-friendly wallet solution.
 2. Development: Extensive research and development were conducted to design a platform that integrates advanced security features while maintaining ease of use.
 3. Launch: Begin.is was officially launched, offering a robust Cardano blockchain wallet solution that quickly gained traction among cryptocurrency enthusiasts.
-4. Growth: The platform has seen steady growth, with continuous updates and feature enhancements to meet the evolving needs of its user base. Now Begin is more focussed to tackle “real-world-problems”. 
+4. Growth: The platform has seen steady growth, with continuous updates and feature enhancements to meet the evolving needs of its user base. Now Begin.is is more focussed to tackle “real-world-problems”. 
 
 ## Source Repositories
 
-- [openwallet-foundation-labs/begin-wallet-core](https://github.com/openwallet-foundation-labs/begin-wallet-core)
+- [openwallet-foundation-labs/build-wallet-core](https://github.com/openwallet-foundation-labs/build-wallet-core)
 
 ## Chat Channel
 
-[#begin-wallet-core](#FIXME)
+[#build-wallet-core](https://discord.com/channels/1022962884864643214/1268222388982775879)
 
 ## History
 - [Proposal to enter Labs](#FIXME) -- Approved by TAC on [2024-07-24](../meetings/2024/2024-07-24.md)
