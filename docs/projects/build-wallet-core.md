@@ -41,4 +41,4 @@ Begin.is was founded with the mission to create a more secure and accessible pla
 [#build-wallet-core](https://discord.com/channels/1022962884864643214/1268222388982775879)
 
 ## History
-- [Proposal to enter Labs](#FIXME) -- Approved by TAC on [2024-07-24](../meetings/2024/2024-07-24.md)
+- [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/616a61618c2b1054b3367a17bdc60b16c34df05a/projects/build-wallet-core.md) -- Approved by TAC on [2024-07-24](../meetings/2024/2024-07-24.md)
