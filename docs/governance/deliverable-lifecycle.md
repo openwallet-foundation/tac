@@ -23,22 +23,22 @@ objectives, and scope. Here are some examples:
 
 ## Process
 
-There are three stages of an OWF deliverable -- draft, review, and approved.
+There are three stages of an OWF deliverable -- draft, review, and released.
 
 ```mermaid
 flowchart
   d[Draft]
   r[Review]
-  t{TAC\nDecision}
-  a[Approved]
+  c{Ready for Release?}
+  v[Released]
 
   d -->|Submission| r
-  r --> t
-  t -->|Request Changes| d
-  t -->|Approve| a
+  r --> c
+  c -->|Make Changes| d
+  c -->|Create Release| v
 ```
 
-A deliverable begins as a "draft" and retains this status until submitted to the TAC for review. At this point, the deliverable will be considered to be in the "review" stage and retains this status until the TAC makes a decision. The TAC may reject the deliverable for various reasons. If the deliverable is rejected by the TAC then it will return to a "draft" stage where the community can address the concerns of the TAC. The deliverable may also be accepted by the TAC, in which case it will be published as an "approved" deliverable of the OWF technical community. Only after the deliverable is accepted, may the deliverable use the "OpenWallet Foundation" trademark. See [required contents](#required-contents) for more information on what should be included within an "approved" deliverable.
+A deliverable begins as a "draft" and retains this status until submitted to the community for review. At this point, the deliverable will be considered to be in the "review" stage and retains this status until the review period has ended. After the review period has ended, the task force or special interest group will determine if the deliverable is ready for release. If the task force or special interest group chooses to make changes, the deliverable will return to a "draft" stage where they can address the concerns of the community. The task force or special interest group can also determine that the deliverable is ready for release. In which case, a "released" version can be created. See [required contents](#required-contents) for more information on what should be included within a "released" deliverable.
 
 ### Draft
 
@@ -46,29 +46,27 @@ During the "draft" stage, the deliverable is being prepared by the task force or
 
 ### Submission
 
-The task force or special interest group lead may submit a version of their deliverable to the Technical Advisory Committee (TAC) for review. They can do this by sending an email to the [TAC mailing list](mailto:tac@lists.openwallet.foundation). The email should include the following information:
+The task force or special interest group lead may submit a version of their deliverable to the community for review. They can do this by sending an email to the [TAC mailing list](mailto:tac@lists.openwallet.foundation). The email should include the following information:
 
 - A brief description of the deliverable.
-- A link to the deliverable. Ideally, this should be a link to a pull request that contains the version of the deliverable where people in the community and the TAC voting members will be able to provide their feedback.
+- A link to the deliverable. Ideally, this should be a link to a pull request that contains the version of the deliverable where people in the community will be able to provide their feedback.
 - A link to the task force or special interest group that submitted the deliverable.
 
 ### Review
 
-The applicable period to review a submitted deliverable will be no shorter than four weeks. The TAC will make reasonable efforts to provide feedback on the submitted version during the review period and provide any critical comments or objections, with sufficient specificity for the task force or special interest group members to respond and, if required, to facilitate resolution. 
+The applicable period to review a submitted deliverable will be no shorter than four weeks. The community will make reasonable efforts to provide feedback on the submitted version during the review period and provide any critical comments or objections, with sufficient specificity for the task force or special interest group members to respond and, if required, to facilitate resolution. 
 
 !!! info
 
-    Comments and feedback can be provided by anyone in the OWF community. The TAC will take into consideration any comments and feedback provided during the review process when making their decision.
+    Comments and feedback can be provided by anyone in the OWF community.
 
-### TAC Decision
+### Ready for Release
 
-After the applicable review period has elapsed, the submitted deliverable will be discussed at the next TAC meeting. The TAC will make a decision to approve, reject, or request changes based on the feedback provided during the review period. To be approved, the deliverable must receive a two-thirds supermajority vote of the TAC.
+After the applicable review period has elapsed, the task force or special interest group members can review the feedback received and determine if the deliverable is ready for review. If the task force or special interest group chooses to make changes, the deliverable will return to a "draft" stage where they can address the concerns of the community. The task force or special interest group can also determine that the deliverable is ready for release. In which case, a "released" version can be created. 
 
-If there is not agreement to recommend approval, the deliverable will return to a "draft" status where the community can address the concerns of the TAC and re-submit for review after the concerns have been addressed.
+### Released
 
-### Changes
-
-No substantive changes may be made to an "approved" deliverable; substantive changes will require review and approval of a successor version of the deliverable. A **substantive change** refers to a modification that significantly affects the content, meaning, or interpretation of an "approved" deliverable.
+The task force or special interest group should ensure that the [required contents](#required-contents) are included in any release.
 
 ## Required Contents
 
@@ -76,7 +74,7 @@ No substantive changes may be made to an "approved" deliverable; substantive cha
 
 The copyright notice must be included in all versions of the deliverable. The copyright notice should include the OpenWallet Foundation as well as the year of publication.
 
-!!! example
+!!! quote
 
     Copyright (c) 2024 OpenWallet Foundation.
 
@@ -84,7 +82,7 @@ The copyright notice must be included in all versions of the deliverable. The co
 
 The license notice must be included in all versions of the deliverable. The license notice should include a reference to the CC-BY-4.0 license.
 
-!!! example
+!!! quote
 
     This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
