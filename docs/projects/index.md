@@ -25,3 +25,4 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2024-May-15   | [Tuvali](./tuvali.md)                  | Lab             |
 | 2024-May-29   | [Credhub](./credhub.md)                | Lab             |
 | 2024-Jun-12   | [MDL JavaScript](./mdl-js.md)          | Lab             |
+| 2024-Aug-07   | [Learner Credential Wallet](./learner-credential-wallet.md) | Lab |

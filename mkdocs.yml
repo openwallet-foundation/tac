@@ -177,6 +177,7 @@ nav:
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
       - Farmworker Wallet OS: projects/fwos.md
       - Identity Credential: projects/identity-credential.md
+      - Learner Credential Wallet: projects/learner-credential-wallet.md
       - MDL JavaScript: projects/mdl-js.md
       - Multiformat VC for iOS: projects/multiformat-vc-ios.md
       - SD-JWT .NET: projects/sd-jwt-dotnet.md
