@@ -22,7 +22,7 @@ This project was used by German Bundesdruckerei but not sure they are still usin
 
 ### Performance Against Prior Goals
 
-The project implemented with success to it's initial goal but not well maintained or used.
+The project implemented with success to its initial goal but not well maintained or used.
 
 ### Next Year's Goals
 
