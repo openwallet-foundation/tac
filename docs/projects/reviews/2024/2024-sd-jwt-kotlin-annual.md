@@ -3,7 +3,7 @@
 ## Project Health
 
 The main focus of this project was to provide a Kotlin implementation for the
-IETF SD-JWT draft. However, the project remain without any updates for a while and
+IETF SD-JWT draft. However, the project remains without any updates for a while and
 the maintainer decided to post an announcement stating this project is no longer maintained.
 However during TAC meeting for annual review, there was a volunteer stepped up to 
 take care of this project.
