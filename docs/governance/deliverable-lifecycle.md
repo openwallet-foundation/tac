@@ -90,6 +90,14 @@ The license notice must be included in all versions of the deliverable. The lice
 
 A "non-representative" disclaimer should be included in all versions of the deliverable. The "non-representative" disclaimer should include the following text:
 
+#### For a Task Force
+
+!!! quote
+
+    These materials are a deliverable of the _task force name_ Task Force and were created by the contributors to that Task Force. It has not been reviewed, approved, or endorsed by the OpenWallet Foundation ("OWF") and its members.
+
+#### For a SIG
+
 !!! quote
 
     These materials are a deliverable of the _sig name_ SIG and were created by the contributors to that SIG. It has not been reviewed, approved, or endorsed by the OpenWallet Foundation ("OWF") and its members.
