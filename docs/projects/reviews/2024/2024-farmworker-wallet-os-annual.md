@@ -48,7 +48,7 @@ Additionally, the project hopes to initiate exploration and prototyping of a mob
 
 #### FWOS Native Agent Architecture
 
-![Farmworker Wallet OS Native Agent Architecture]https://github.com/Entidad/farmworker-wallet-os/blob/main/img/fwos-architecture-native-agent.png)
+![Farmworker Wallet OS Native Agent Architecture](https://github.com/Entidad/farmworker-wallet-os/blob/main/img/fwos-architecture-native-agent.png)
 
 ### Next Year's Goals
 
@@ -62,7 +62,7 @@ For the next year, the FWOS project aims to introduce cloud agent components to 
 
 #### FWOS Cloud Agent Architecture
 
-![Farmworker Wallet OS Cloud Agent Architecture]https://github.com/Entidad/farmworker-wallet-os/blob/main/img/fwos-architecture-cloud-agent.png)
+![Farmworker Wallet OS Cloud Agent Architecture](https://github.com/Entidad/farmworker-wallet-os/blob/main/img/fwos-architecture-cloud-agent.png)
 
 ## Help Required
 
