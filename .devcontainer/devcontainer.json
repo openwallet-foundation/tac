@@ -9,12 +9,13 @@
                 "terminal.integrated.shell.linux": "/bin/sh"
             },
             "extensions": [
-				"ms-vscode-remote.remote-containers"
+				"ms-vscode-remote.remote-containers",
+				"bierner.markdown-mermaid"
 			]
 		}
 	},
 	"forwardPorts": [
 		8000
 	],
-	"postStartCommand": "mkdocs serve -a 0.0.0.0:8000",
+	"postStartCommand": "mkdocs serve -a 127.0.0.1:8000",
 }
