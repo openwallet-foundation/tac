@@ -16,7 +16,7 @@ The project currently has four maintainers, from two organizations, Energy Web &
 
 ## Project Adoption
 
-The project currently one primary adoption organization, Elia Group. Elia continues to showcase the VC API project on their SSI demonstration site (https://ssi4energy.eliagroup.eu/en).
+The project currently has one primary adoption organization, Elia Group. Elia continues to showcase the VC API project on their SSI demonstration site (https://ssi4energy.eliagroup.eu/en).
 This is roughly the same amount of adoption as when accepted into the OpenWallet Foundation last year. 
 
 ## Goals
