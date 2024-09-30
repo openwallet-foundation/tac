@@ -49,6 +49,8 @@ The benefits of this item include:
   - Examples of this are the following GitHub issues:
     - [Credo Issue #2038- Make verifiableCredential property on W3cPresentation optional](https://github.com/openwallet-foundation/credo-ts/issues/2038) 
     - [Credo Issue #2043 - Fix W3cCredentialsApi verifyCredential types](https://github.com/openwallet-foundation/credo-ts/issues/2043)
+  - Having a VC API wrapper for Credo would provide Credo with the interface for the [VC Data Model 2.0 test suite](https://github.com/w3c/vc-data-model-2.0-test-suite?tab=readme-ov-file#setup)
+  - A note that [ACA Py already offers VC API issuance and verification endpoints](https://github.com/hyperledger/aries-cloudagent-python/pull/2710)
 - The ability to use load additional JSON LD contexts, unlocking new use cases
 - A clearer path to supporting further VC technology such as SD-JWT and BBS signatures
 
