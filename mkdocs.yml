@@ -130,6 +130,7 @@ nav:
   - Meetings:
     - meetings/index.md
     - 2024:
+      - 2024-10-02: meetings/2024/2024-10-02.md
       - 2024-09-18: meetings/2024/2024-09-18.md
       - 2024-09-04: meetings/2024/2024-09-04.md
       - 2024-08-21: meetings/2024/2024-08-21.md
@@ -204,6 +205,7 @@ nav:
     - Credential Format Comparison: SIGs/credential-format-comparison.md
     - Digital Wallet and Agent Overviews: SIGs/digital-wallet-and-agent-overviews.md
     - Safe Wallet: SIGs/safe-wallet.md
+    - Wallet Interoperability: SIGs/wallet-interoperability.md
     - Quarterly Updates:
       - 2024:
         - SIGs/updates/2024/index.md
