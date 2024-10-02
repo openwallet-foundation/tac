@@ -177,6 +177,7 @@ nav:
       - Bifold: projects/bifold.md
       - Credo: projects/credo-ts.md
     - Labs:
+      - Build Wallet Core: projects/build-wallet-core.md
       - Credhub: projects/credhub.md
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
       - Farmworker Wallet OS: projects/fwos.md
