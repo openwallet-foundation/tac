@@ -25,3 +25,8 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2024-May-15   | [Tuvali](./tuvali.md)                  | Lab             |
 | 2024-May-29   | [Credhub](./credhub.md)                | Lab             |
 | 2024-Jun-12   | [MDL JavaScript](./mdl-js.md)          | Lab             |
+| 2024-Sep-18   | [ACA-Py](./aca-py.md)                  | Impact          |
+| 2024-Sep-18   | [Askar](./askar.md)                    | Growth          |
+| 2024-Sep-18   | [OWL](./owl.md)                        | Growth          |
+| 2024-Sep-18   | [DIDComm Mediator](./didcomm-mediator.md) | Growth       |
+| 2024-Oct-02   | [Solid Data Wallet](./solid-data-wallet.md) | Lab        |
