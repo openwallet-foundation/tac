@@ -19,7 +19,6 @@ Bifold is an open-source project designed to enhance the way we interact with di
 ## Source Repositories
 
 - [openwallet-foundation/bifold-wallet](https://github.com/openwallet-foundation/bifold-wallet)
-- [openwallet-foundation/mobile-wallet-test-harness](https://github.com/openwallet-foundation/mobile-wallet-test-harness)
 
 ## Chat Channel
 - [#bifold](https://discord.com/channels/1022962884864643214/1209891839071756419) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
