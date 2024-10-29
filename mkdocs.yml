@@ -84,12 +84,18 @@ extra:
       link: https://github.com/openwallet-foundation
     - icon: fontawesome/solid/flask-vial
       link: https://github.com/openwallet-foundation-labs
+      name: Labs (GitHub)
     - icon: fontawesome/brands/discord
       link: https://discord.gg/openwalletfoundation
+      name: Discord
     - icon: fontawesome/solid/envelope
       link: https://lists.openwallet.foundation
     - icon: fontawesome/solid/calendar-days
       link: https://zoom-lfx.platform.linuxfoundation.org/meetings/openwalletfoundation
+      name: Community Calendar
+    - icon: material/presentation
+      link: https://drive.google.com/drive/folders/1TW9Och54uAjuKDeYQZ-DUIuNzpDLaLUT?usp=drive_link
+      name: Community Presentations (Google Drive)
     - icon: fontawesome/solid/globe
       link: https://openwallet.foundation
 nav:
@@ -107,6 +113,7 @@ nav:
       - Project Lifecycle: governance/project-lifecycle.md
       - Special Interest Groups: governance/special-interest-group-process.md
       - Task Forces: governance/task-force-process.md
+      - Deliverable Lifecycle: governance/deliverable-lifecycle.md
       - Composition: governance/tac.md
     - Project Requirements:
       - Annual Review Process: governance/project-annual-review-process.md
@@ -123,6 +130,14 @@ nav:
   - Meetings:
     - meetings/index.md
     - 2024:
+      - 2024-10-16: meetings/2024/2024-10-16.md
+      - 2024-10-02: meetings/2024/2024-10-02.md
+      - 2024-09-18: meetings/2024/2024-09-18.md
+      - 2024-09-04: meetings/2024/2024-09-04.md
+      - 2024-08-21: meetings/2024/2024-08-21.md
+      - 2024-08-07: meetings/2024/2024-08-07.md
+      - 2024-07-24: meetings/2024/2024-07-24.md
+      - 2024-07-10: meetings/2024/2024-07-10.md
       - 2024-06-26: meetings/2024/2024-06-26.md
       - 2024-06-12: meetings/2024/2024-06-12.md
       - 2024-05-29: meetings/2024/2024-05-29.md
@@ -191,6 +206,7 @@ nav:
     - Credential Format Comparison: SIGs/credential-format-comparison.md
     - Digital Wallet and Agent Overviews: SIGs/digital-wallet-and-agent-overviews.md
     - Safe Wallet: SIGs/safe-wallet.md
+    - Wallet Interoperability: SIGs/wallet-interoperability.md
     - Quarterly Updates:
       - 2024:
         - SIGs/updates/2024/index.md
@@ -205,3 +221,5 @@ not_in_nav: |
   projects/dashboards/owf.md
   projects/dashboards/labs.md
   projects/reviews/2024/2024-sd-jwt-python-annual.md
+  projects/reviews/2024/2024-farmworker-wallet-os-annual.md
+  projects/reviews/2024/2024-vc-api-implementation-annual.md
