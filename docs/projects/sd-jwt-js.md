@@ -6,7 +6,7 @@ A JavaScript implementation of the [Selective Disclosure for JWTs](https://www.i
 
 ## Source Repositories
 
-- [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+- [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
 
 ## Chat Channel
 
