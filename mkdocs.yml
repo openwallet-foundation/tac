@@ -130,6 +130,7 @@ nav:
   - Meetings:
     - meetings/index.md
     - 2024:
+      - 2024-10-30: meetings/2024/2024-10-30.md
       - 2024-10-16: meetings/2024/2024-10-16.md
       - 2024-10-02: meetings/2024/2024-10-02.md
       - 2024-09-18: meetings/2024/2024-09-18.md
@@ -178,6 +179,7 @@ nav:
     - Growth:
       - Bifold: projects/bifold.md
       - Credo: projects/credo-ts.md
+      - SD-JWT JavaScript: projects/sd-jwt-js.md
     - Labs:
       - Credhub: projects/credhub.md
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
@@ -186,7 +188,6 @@ nav:
       - MDL JavaScript: projects/mdl-js.md
       - Multiformat VC for iOS: projects/multiformat-vc-ios.md
       - SD-JWT .NET: projects/sd-jwt-dotnet.md
-      - SD-JWT JavaScript: projects/sd-jwt-js.md
       - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
       - SD-JWT Python: projects/sd-jwt-python.md
       - SD-JWT Rust: projects/sd-jwt-rust.md
@@ -221,5 +222,6 @@ not_in_nav: |
   projects/dashboards/owf.md
   projects/dashboards/labs.md
   projects/reviews/2024/2024-sd-jwt-python-annual.md
+  projects/reviews/2024/2024-sd-jwt-kotlin-annual.md
   projects/reviews/2024/2024-farmworker-wallet-os-annual.md
   projects/reviews/2024/2024-vc-api-implementation-annual.md

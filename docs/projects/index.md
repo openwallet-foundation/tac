@@ -14,7 +14,7 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2023-Sep-28   | [VC API](./vc-api.md)                  | Lab             |
 | 2023-Oct-04   | [Wallet Framework .NET](./wallet-framework-dotnet.md) | Lab |
 | 2023-Oct-18   | [Identity Credential](./identity-credential.md) | Lab |
-| 2023-Nov-01   | [SD-JWT JavaScript](./sd-jwt-js.md)    | Lab             |
+| 2023-Nov-01   | [SD-JWT JavaScript](./sd-jwt-js.md)    | Growth          |
 | 2023-Nov-15   | [SD-JWT Rust](./sd-jwt-rust.md)        | Lab             |
 | 2023-Nov-29   | [SD-JWT .NET](./sd-jwt-dotnet.md)      | Lab             |
 | 2023-Nov-29   | [Credo](./credo-ts.md)                 | Growth |
