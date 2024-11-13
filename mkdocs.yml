@@ -205,13 +205,14 @@ nav:
   - Special Interest Groups:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
-    - Credential Format Comparison: SIGs/credential-format-comparison.md
     - Digital Wallet and Agent Overviews: SIGs/digital-wallet-and-agent-overviews.md
     - Safe Wallet: SIGs/safe-wallet.md
     - Wallet Interoperability: SIGs/wallet-interoperability.md
     - Quarterly Updates:
       - 2024:
         - SIGs/updates/2024/index.md
+    - Archived SIGs:
+      - Credential Format Comparison: SIGs/credential-format-comparison.md
   - Task Forces:
     - task-forces/index.md
     - Archived:
