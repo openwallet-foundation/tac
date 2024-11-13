@@ -19,7 +19,7 @@ The Special Interest Groups (SIGs) must provide a quarterly update to the TAC to
 | Q4      | [Architecture SIG][13]                       | 2024-10-02  |
 | Q4      | [Credential Format Comparison SIG][14]       | 2024-10-16  |
 | Q4      | [Digital Wallet and Agent Overviews SIG][15] | 2024-11-13  |
-| Q4      | Safe Wallet SIG                              | 2024-11-13  |
+| Q4      | Safe Wallet SIG                              | 2024-11-27  |
 
 [1]: https://docs.google.com/presentation/d/1ruBVQTp2U9KTR9F9oH55o0ge9Sn0T_KR6utExQqD0Xc/edit?usp=sharing
 [2]: https://docs.google.com/presentation/d/1FnegQ8sywiRO13_y-SSev9hFdQ2h7uCHvRWoQ-ZuQSk/edit#slide=id.g2b730f058ff_0_0
