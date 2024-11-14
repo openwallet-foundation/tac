@@ -1,4 +1,4 @@
-# MDL JavaScript
+# Learner Credential Wallet
 
 ## Project Description
 
