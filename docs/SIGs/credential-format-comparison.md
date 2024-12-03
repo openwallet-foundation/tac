@@ -1,4 +1,9 @@
 # Credential Format Comparison Special Interest Group (SIG)
+
+!!! danger "Archived SIG"
+
+    This SIG is no longer active. The work has been combined with the [Digital Wallet and Agent Overviews](digital-wallet-and-agent-overviews.md).
+
 This SIG is dedicated to maintaining information about available credential formats for the benefit of OWF projects and the wider community. The topic is more complex than one might assume on first sight, since there are more than 14 formats for representing digital credentials and most of those formats can be combined with different signature algorithms, ways to represent cryptographic keys (with alone more than a hundred DID methods), status management methods, trust management methods and so on.  
 
 There is pre-existing work started at Internet Identity Workshop (IIW 34, Spring 2022) and extended and augmented during Rebooting the Web of Trust (RWOT-XI, The Hague, Sept 2022). 

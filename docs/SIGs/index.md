@@ -8,6 +8,10 @@ A _special interest group (SIG)_ under the Technical Advisory Council (TAC) is a
 ## Active SIGs
 
 * [Architecture](./architecture.md)
-* [Credential Format Comparison](./credential-format-comparison.md)
 * [Digital Wallet and Agent Overviews](digital-wallet-and-agent-overviews.md)
 * [Safe Wallet](./safe-wallet.md)
+* [Wallet Interoperability](./wallet-interoperability.md)
+
+## Archived SIGs
+
+* [Credential Format Comparison](./credential-format-comparison.md) - This work has been combined with the [Digital Wallet and Agent Overviews](digital-wallet-and-agent-overviews.md)

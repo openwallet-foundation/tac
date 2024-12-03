@@ -130,6 +130,10 @@ nav:
   - Meetings:
     - meetings/index.md
     - 2024:
+      - 2024-11-13: meetings/2024/2024-11-13.md
+      - 2024-10-30: meetings/2024/2024-10-30.md
+      - 2024-10-16: meetings/2024/2024-10-16.md
+      - 2024-10-02: meetings/2024/2024-10-02.md
       - 2024-09-18: meetings/2024/2024-09-18.md
       - 2024-09-04: meetings/2024/2024-09-04.md
       - 2024-08-21: meetings/2024/2024-08-21.md
@@ -181,15 +185,16 @@ nav:
       - Credo: projects/credo-ts.md
       - DIDComm Mediator: projects/didcomm-mediator.md
       - OWL: projects/owl.md
+      - SD-JWT JavaScript: projects/sd-jwt-js.md
     - Labs:
       - Credhub: projects/credhub.md
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
       - Farmworker Wallet OS: projects/fwos.md
       - Identity Credential: projects/identity-credential.md
+      - Learner Credential Wallet: projects/learner-credential-wallet.md
       - MDL JavaScript: projects/mdl-js.md
       - Multiformat VC for iOS: projects/multiformat-vc-ios.md
       - SD-JWT .NET: projects/sd-jwt-dotnet.md
-      - SD-JWT JavaScript: projects/sd-jwt-js.md
       - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
       - SD-JWT Python: projects/sd-jwt-python.md
       - SD-JWT Rust: projects/sd-jwt-rust.md
@@ -207,12 +212,14 @@ nav:
   - Special Interest Groups:
     - SIGs/index.md
     - Architecture: SIGs/architecture.md
-    - Credential Format Comparison: SIGs/credential-format-comparison.md
     - Digital Wallet and Agent Overviews: SIGs/digital-wallet-and-agent-overviews.md
     - Safe Wallet: SIGs/safe-wallet.md
+    - Wallet Interoperability: SIGs/wallet-interoperability.md
     - Quarterly Updates:
       - 2024:
         - SIGs/updates/2024/index.md
+    - Archived SIGs:
+      - Credential Format Comparison: SIGs/credential-format-comparison.md
   - Task Forces:
     - task-forces/index.md
     - Archived:
@@ -224,4 +231,6 @@ not_in_nav: |
   projects/dashboards/owf.md
   projects/dashboards/labs.md
   projects/reviews/2024/2024-sd-jwt-python-annual.md
+  projects/reviews/2024/2024-sd-jwt-kotlin-annual.md
   projects/reviews/2024/2024-farmworker-wallet-os-annual.md
+  projects/reviews/2024/2024-vc-api-implementation-annual.md

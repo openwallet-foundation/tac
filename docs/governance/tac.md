@@ -1,4 +1,4 @@
-# Open Wallet Foundation TAC composition
+# OpenWallet Foundation TAC composition
 
 ## Current Composition
 
@@ -9,6 +9,7 @@
 | Pete Cooling                        | Visa                   |
 | Rolson Quadras                      | Gen                    |
 | Stavros Kounis (vice chair)         | At Large               |
+| Stephen Curran                      | Impact (ACA-Py)        |
 | Tracy Kuhrt (chair)                 | Accenture              |
 | Wenjing Chu                         | FutureWei Technologies |
 
@@ -51,3 +52,5 @@
 ### 2024-05-15
 - Rolson Quadras will represent Gen Digital moving forward
 
+### 2024-10-02
+- Stephen Curran was welcomed as the ACA-Py project representative
