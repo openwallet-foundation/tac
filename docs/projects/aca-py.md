@@ -13,7 +13,11 @@ ACA-Py includes published documentation, a formal plugins model with a repositor
 
 ## Source Repositories
 
-- [Organization](https://github.com/ACA-py)
+- [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy)
+- [openwallet-foundation/acapy-controllers](https://github.com/openwallet-foundation/acapy-controllers)
+- [openwallet-foundation/acapy-endorser-service](https://github.com/openwallet-foundation/acapy-endorser-service)
+- [openwallet-foundation/acapy-plugins](https://github.com/openwallet-foundation/acapy-plugins)
+- [openwallet-foundation/acapy-tools](https://github.com/openwallet-foundation/acapy-tools)
 
 ## Chat Channel
 - [#aca-py](https://discord.com/channels/1022962884864643214/1286299858994462842) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
