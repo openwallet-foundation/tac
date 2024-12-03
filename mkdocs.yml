@@ -177,9 +177,14 @@ nav:
       - 2023-03-08: meetings/2023/2023-03-08.md
   - Projects:
     - projects/index.md
+    - Impact:
+      - ACA-Py: projects/aca-py.md
     - Growth:
+      - Askar: projects/askar.md
       - Bifold: projects/bifold.md
       - Credo: projects/credo-ts.md
+      - DIDComm Mediator: projects/didcomm-mediator.md
+      - OWL: projects/owl.md
       - SD-JWT JavaScript: projects/sd-jwt-js.md
     - Labs:
       - Credhub: projects/credhub.md
@@ -193,6 +198,7 @@ nav:
       - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
       - SD-JWT Python: projects/sd-jwt-python.md
       - SD-JWT Rust: projects/sd-jwt-rust.md
+      - Solid Data Wallet: projects/solid-data-wallet.md
       - Trust Spanning Protocol: projects/tsp.md
       - Tuvali: projects/tuvali.md
       - VC-API: projects/vc-api.md
