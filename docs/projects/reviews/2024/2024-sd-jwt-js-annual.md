@@ -16,7 +16,7 @@ This library is for the Selective Disclosure capability which is one of the impo
 - Ace Shim ([Github](https://github.com/pensivej))
 - Lukas Han ([Github](https://github.com/lukasjhan))
 - Mirko Mollik ([Github](https://github.com/cre8))
-- Brend ([Github](https://github.com/berendsliedrecht))
+- Berend Sliedrecht ([Github](https://github.com/berendsliedrecht))
 
 See [codeowners](https://github.com/openwallet-foundation/sd-jwt-js/blob/main/CODEOWNERS) for more details
 
