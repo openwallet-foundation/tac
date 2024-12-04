@@ -1,4 +1,4 @@
-# YYYY PROJECT NAME
+# 2024 SD-JWT JavaScript Annual Review
 
 ## Project Health
 
