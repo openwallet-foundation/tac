@@ -13,9 +13,9 @@ This library is for the Selective Disclosure capability which is one of the impo
 
 ## Maintainer Diversity
 
-- Ace Shim ([Github](https://github.com/pensivej))
 - Lukas Han ([Github](https://github.com/lukasjhan))
-- Mirko Mollik ([Github](https://github.com/cre8))
+- Ace Shim ([Github](https://github.com/pensivej))
+- Gavin Kim ([Github](https://github.com/zustkeeper))
 - Berend Sliedrecht ([Github](https://github.com/berendsliedrecht))
 - Mirko Mollik ([Github](https://github.com/cre8))
 
