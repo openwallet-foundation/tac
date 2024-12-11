@@ -130,6 +130,7 @@ nav:
   - Meetings:
     - meetings/index.md
     - 2024:
+      - 2024-12-11: meetings/2024/2024-12-11.md
       - 2024-11-13: meetings/2024/2024-11-13.md
       - 2024-10-30: meetings/2024/2024-10-30.md
       - 2024-10-16: meetings/2024/2024-10-16.md
@@ -234,3 +235,4 @@ not_in_nav: |
   projects/reviews/2024/2024-sd-jwt-kotlin-annual.md
   projects/reviews/2024/2024-farmworker-wallet-os-annual.md
   projects/reviews/2024/2024-vc-api-implementation-annual.md
+  projects/reviews/2024/2024-identity-credential-annual.md

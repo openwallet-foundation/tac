@@ -6,7 +6,7 @@
 | ----------------------------------- | ---------------------- |
 | David Zeuthen                       | Google                 |
 | Jaehoon (Ace) Shim                  | At Large               |
-| Pete Cooling                        | Visa                   |
+| Stefan Kauhaus                      | Visa                   |
 | Rolson Quadras                      | Gen                    |
 | Stavros Kounis (vice chair)         | At Large               |
 | Stephen Curran                      | Impact (ACA-Py)        |
@@ -54,3 +54,6 @@
 
 ### 2024-10-02
 - Stephen Curran was welcomed as the ACA-Py project representative
+
+### 2024-12-11
+- Stefan Kauhaus will represent Visa moving forward
