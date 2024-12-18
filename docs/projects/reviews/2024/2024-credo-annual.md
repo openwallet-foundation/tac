@@ -37,7 +37,7 @@ In addition a lot of refactoring has been done and is being done to generalize t
 
 Pull requests to add support for DIDComm v2 have been open for over a year, and still haven't been merged. Part of the refactoring that is currently ongoing are the first steps to also get DIDComm v2 merged. We've not seen a lot of need or adoption of DIDComm v2, and therefore it's not been prioritized by any of the current contributors or maintainers.
 
-We didn't specify specific goals last year, but we're really happy with the progress that has been made over the last year. We didn't meet our goals related to writing documentation, making it easeir to adopt the framework.
+We didn't specify specific goals last year, but we're really happy with the progress that has been made over the last year. We didn't meet our goals related to writing documentation, making it easier to adopt the framework.
 
 ### Next Year's Goals
 
