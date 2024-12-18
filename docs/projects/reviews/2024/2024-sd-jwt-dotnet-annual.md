@@ -7,7 +7,6 @@ IETF SD-JWT draft. As such, the code has reflected the developments in the
 specification over the last year and is up to date with the latest version of
 the draft.
 
-
 ## Maintainer Diversity
 
 As before, the project is maintained by a single maintainer.
