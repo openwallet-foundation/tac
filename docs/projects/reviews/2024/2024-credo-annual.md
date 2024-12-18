@@ -31,7 +31,7 @@ Alghtough we would like to see more large scale deployments of Credo (there are 
 
 ### Performance Against Prior Goals
 
-A big goal of Credo over the last year been has been staying on top of latest advandcements in digital credentials. A lot of progress has been made in adding support for OpenID for Verifiable Credentials, SD-JWT VC, mDOC, DCQL (a new credential query langauge) and X509 certificates. Current work is ongoing to support OpenID Federation and in-person exchange of mDOC credentials.
+A big goal of Credo over the last year been has been staying on top of latest advancements in digital credentials. A lot of progress has been made in adding support for OpenID for Verifiable Credentials, SD-JWT VC, mDOC, DCQL (a new credential query language) and X509 certificates. Current work is ongoing to support OpenID Federation and in-person exchange of mDOC credentials.
 
 In addition a lot of refactoring has been done and is being done to generalize the architecture of the framework. From being fully Hyperledger Indy / Hyperledger AnonCreds / Hyperledger Aries focussed, to providing the needed interface to support any protocol, ledger or credential format.
 
