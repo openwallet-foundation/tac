@@ -14,7 +14,8 @@ It's expected to have a single maintainer for the next year as well.
 
 ## Project Adoption
 
-The primary objective of the project is to deliver a reference implementation for the SD-JWT draft. This project is intended solely for experimental purposes.
+The primary objective of the project is to deliver a reference implementation for the SD-JWT draft. 
+This project is intended solely for experimental purposes.
 
 ## Goals
 
