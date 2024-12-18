@@ -56,7 +56,7 @@ For 2025 Credo has a good list of ambitious goals:
 
 ## Help Required
 
-More publicity for the project. We're really happy with the support from OWF, so mostly looking to collaborate on oportunities to spread the word about Credo.
+More publicity for the project. We're really happy with the support from OWF, so mostly looking to collaborate on opportunities to spread the word about Credo.
 
 ## Project Lifecycle Stage Recommendation
 
