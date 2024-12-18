@@ -43,7 +43,7 @@ We didn't specify specific goals last year, but we're really happy with the prog
 
 For 2025 Credo has a good list of ambitious goals:
 
-- New Key Management System inteface to allow integratin with multiple crypto backends, Hardware Secure Modules, etc. Ambition is to have out of the box support for OpenBAO (open source fork of Hashicorp Vault), Google Cloud KMS, and AWS KMS.
+- New Key Management System interface to allow integratin with multiple crypto backends, Hardware Secure Modules, etc. Ambition is to have out of the box support for OpenBAO (open source fork of Hashicorp Vault), Google Cloud KMS, and AWS KMS.
 - Add missing features and stay up to date with latest drafts and advancements in OpenID for Verifiable Credentials
 - Finish and stay up to date with advancements in the High Assurance Interoperability Profile
 - Remove DIDComm out of core (similar to how OpenID4VC is a plugin) and merge support for DIDComm v2
