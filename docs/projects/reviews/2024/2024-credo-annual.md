@@ -49,7 +49,7 @@ For 2025 Credo has a good list of ambitious goals:
 - Remove DIDComm out of core (similar to how OpenID4VC is a plugin) and merge support for DIDComm v2
 - New Credo Mediator repository that provides everything needed to deploy a highly scalable Credo DIDComm Mediator
 - New and improved APIs to converge all the different credentials formats and trust mechanisms. A lot of new APIs have been added and with our experience using them we would like to make it simpler to leverage different credential formats, exchange protocols, and trust mechanisms.
-- New APIs for managment of revocation status lists, issuance of revocable credentials
+- New APIs for management of revocation status lists, issuance of revocable credentials
 - Assist in large scale deployments of Credo, providing caching, K8S deployment files, or whatever is needed to make it easier.
 - Documentation for at least the most used features within the framework
 - A lot of small things related to existing features
