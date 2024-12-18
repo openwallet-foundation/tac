@@ -25,7 +25,7 @@ Last year Credo already had great adoption by both governments and private organ
 
 Credo is being used by goverments in North America ([British Columbia](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet)), organizations in North America ([Northern Block](https://northernblock.io/blog/aip-2-interoperability), [Entidad](https://www.entidad.io/) (through Farmworker Wallet OS)), organizations in South America ([2060.io](https://2060.io/)), governments in Asia ([Bhutan](https://www.biometricupdate.com/202408/bhutans-self-sovereign-digital-id-switches-to-polygon-blockchain) through [Credebl](https://credebl.id/)), organizations in Asia ([Ayanworks](https://www.ayanworks.com/)), governments in Europe (Government of Ireland), organizations in Europe ([Animo](https://animo.id/), [ID Crypt](https://idcrypt.global)), and more. This list is not exhaustive, but based on public announcements governments and organizations have made about using Credo.
 
-Alghtough we would like to see more large scale deployments of Credo (there are some but not many), we're really happy with the diverse adoption of the framework around the world. We think this is partly due to the support for both DIDComm/Aries as well as OpenID4VC standards.
+Although we would like to see more large scale deployments of Credo (there are some but not many), we're really happy with the diverse adoption of the framework around the world. We think this is partly due to the support for both DIDComm/Aries as well as OpenID4VC standards.
 
 ## Goals
 
