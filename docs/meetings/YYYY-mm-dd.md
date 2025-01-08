@@ -6,18 +6,23 @@
 ## Agenda
 - Include agenda items here.
 
+## Links
+- [slides]()
+- [recording]()
+
 ## TAC Voting Members
 
 - [ ] David Zeuthen
 - [ ] Jaehoon (Ace) Shim
-- [ ] Mike Varley
-- [ ] Pete Cooling
+- [ ] Rolson Quadras
 - [ ] Stavros Kounis
+- [ ] Stefan Kauhaus
+- [ ] Stephen Curran
 - [ ] Tracy Kuhrt
 - [ ] Wenjing Chu
 
-## Notes
-- Include discussion notes here.
+## Action Items
+- Include action items here.
 
-## Recording
-- [link to recording]()
+## Meeting Minutes
+- Include meeting minutes here.
