@@ -129,6 +129,8 @@ nav:
       - Content Plan: governance/content-plan.md
   - Meetings:
     - meetings/index.md
+    - 2025:
+      - 2025-01-08: meetings/2025/2025-01-08.md
     - 2024:
       - 2024-12-11: meetings/2024/2024-12-11.md
       - 2024-11-13: meetings/2024/2024-11-13.md
@@ -189,12 +191,15 @@ nav:
       - SD-JWT JavaScript: projects/sd-jwt-js.md
     - Labs:
       - Credhub: projects/credhub.md
+      - DCQL TypeScript: projects/dcql-ts.md
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
       - Farmworker Wallet OS: projects/fwos.md
       - Identity Credential: projects/identity-credential.md
       - Learner Credential Wallet: projects/learner-credential-wallet.md
       - MDL JavaScript: projects/mdl-js.md
       - Multiformat VC for iOS: projects/multiformat-vc-ios.md
+      - OID4VC TypeScript: projects/oid4vc-ts.md
+      - OpenID Federation TypeScript: projects/openid-federation-ts.md
       - SD-JWT .NET: projects/sd-jwt-dotnet.md
       - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
       - SD-JWT Python: projects/sd-jwt-python.md
@@ -236,3 +241,7 @@ not_in_nav: |
   projects/reviews/2024/2024-farmworker-wallet-os-annual.md
   projects/reviews/2024/2024-vc-api-implementation-annual.md
   projects/reviews/2024/2024-identity-credential-annual.md
+  projects/reviews/2024/2024-credo-annual.md
+  projects/reviews/2024/2024-sd-jwt-js-annual.md
+  projects/reviews/2024/2024-sd-jwt-rust-annual.md
+  projects/reviews/2024/2024-wallet-framework-dotnet-annual.md
