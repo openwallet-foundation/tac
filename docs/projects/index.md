@@ -34,3 +34,4 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2025-Jan-08   | [DCQL TypeScript](./dcql-ts.md)                                   | Lab             |
 | 2025-Jan-08   | [OID4VC TypeScript](./oid4vc-ts.md)                               | Lab             |
 | 2025-Jan-08   | [OpenID Federation TypeScript](./openid-federation-ts.md)         | Lab             |
+| 2025-Jan-23   | [SD-JWT Verifiable Credentials Data Model](./sd-jwt-vc-dm.md)     | Lab             |
