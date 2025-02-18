@@ -8,9 +8,8 @@
 | Jaehoon (Ace) Shim                  | At Large               |
 | Stefan Kauhaus                      | Visa                   |
 | Rolson Quadras                      | Gen                    |
-| Stavros Kounis (vice chair)         | At Large               |
+| Stavros Kounis (chair)              | At Large               |
 | Stephen Curran                      | Impact (ACA-Py)        |
-| Tracy Kuhrt (chair)                 | Accenture              |
 | Wenjing Chu                         | FutureWei Technologies |
 
 ## History
@@ -57,3 +56,6 @@
 
 ### 2024-12-11
 - Stefan Kauhaus will represent Visa moving forward
+
+### 2025-02-04
+- Tracy Kuhrt will no longer be part of the TAC; Accenture no longer premier member

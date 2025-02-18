@@ -18,7 +18,6 @@
 - [ ] Stavros Kounis
 - [ ] Stefan Kauhaus
 - [ ] Stephen Curran
-- [ ] Tracy Kuhrt
 - [ ] Wenjing Chu
 
 ## Action Items
