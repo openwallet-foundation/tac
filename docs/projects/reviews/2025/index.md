@@ -5,7 +5,7 @@ Projects must provide an [annual review](../../../governance/project-annual-revi
 | Project                                     | Stage  | Date Accepted | 2025 Review  |
 |---------------------------------------------|--------|--------------|--------------|
 | Multiformat VC for iOS                      | Labs   | Jan 24, 2024  | Mar  5, 2025 |
-| Bifold                                      | Growth | Feb 21, 2024  | Mar 10, 2025 |
+| Bifold                                      | Growth | Feb 21, 2024  | Mar 19, 2025 |
 | EUDI Wallet Kit React Native                | Labs   | Apr 17, 2024  | Apr 30, 2025 |
 | Trust Spanning Protocol                     | Labs   | May 15, 2024  | May 14, 2025 |
 | Credhub                                     | Labs   | May 29, 2024  | May 28, 2025 |
@@ -23,10 +23,10 @@ Projects must provide an [annual review](../../../governance/project-annual-revi
 | Solid Data Wallet                           | Labs   | Oct  2, 2024  | Oct 01, 2025 |
 | Wallet Framework .NET                       | Labs   | Oct  4, 2023  | Oct 15, 2025 |
 | Identity Credential (was Android Identity Library) | Labs   | Oct 18, 2023  | Oct 29, 2025 |
-| SD-JWT JavaScript                           | Labs   | Nov  1, 2023  | Nov 11, 2025 |
-| SD-JWT Rust                                 | Labs   | Nov 15, 2023  | Nov 11, 2025 |
-| SD-JWT .NET                                 | Labs   | Nov 29, 2023  | Nov 11, 2025 |
-| Credo                                       | Growth | Nov 29, 2023  | Dec 12, 2025 |
+| SD-JWT JavaScript                           | Labs   | Nov  1, 2023  | Nov 12, 2025 |
+| SD-JWT Rust                                 | Labs   | Nov 15, 2023  | Nov 12, 2025 |
+| SD-JWT .NET                                 | Labs   | Nov 29, 2023  | Nov 12, 2025 |
+| Credo                                       | Growth | Nov 29, 2023  | Dec 10, 2025 |
 
 
 
