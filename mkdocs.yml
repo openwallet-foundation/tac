@@ -226,6 +226,8 @@ nav:
     - Quarterly Updates:
       - 2024:
         - SIGs/updates/2024/index.md
+      - 2025:
+        - SIGs/updates/2025/index.md
     - Archived SIGs:
       - Credential Format Comparison: SIGs/credential-format-comparison.md
   - Task Forces:
