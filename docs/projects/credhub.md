@@ -1,5 +1,13 @@
 # Credhub
 
+!!! danger "Project Archived – No Longer Maintained"
+
+    This project has been archived and is no longer actively maintained. The decision to discontinue maintenance was made during the [TAC meeting on Feb 19, 2025](https://tac.openwallet.foundation/meetings/2025/2025-02-19/#meeting-minutes).
+    
+    If you are interested in taking over and reactivating the project, we encourage you to reach out to the [TAC](https://tac.openwallet.foundation/) to discuss possibilities for its future development.
+
+    For any questions or further details, please contact the [TAC](https://tac.openwallet.foundation/).
+    
 ## Project Description
 
 When talking about wallets for natural persons, a lot of people think that a smartphone based wallet is the only way to go. The user should feel the security and privacy by being independent from an external provider. But we are forgetting that online based services have a great user experience in daily life:
@@ -49,3 +57,4 @@ By validating existing SSI frameworks like Credo or Veramo, this project should 
 ## History
 
 - [Proposal to enter Labs](https://github.com/openwallet-foundation/project-proposals/blob/ee1acec74fa98400a166f2e09452746b3998668b/projects/credhub.md) -- Approved by TAC on [2024-05-29](../meetings/2024/2024-05-29.md)
+- Project archived – Decision made during the TAC meeting on [2025-02-19](../meetings/2025/2025-02-19/)

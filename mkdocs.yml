@@ -192,7 +192,6 @@ nav:
       - OWL: projects/owl.md
       - SD-JWT JavaScript: projects/sd-jwt-js.md
     - Labs:
-      - Credhub: projects/credhub.md
       - DCQL TypeScript: projects/dcql-ts.md
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
       - Farmworker Wallet OS: projects/fwos.md
@@ -202,7 +201,6 @@ nav:
       - Multiformat VC for iOS: projects/multiformat-vc-ios.md
       - OID4VC TypeScript: projects/oid4vc-ts.md
       - OpenID Federation TypeScript: projects/openid-federation-ts.md
-      - SD-JWT .NET: projects/sd-jwt-dotnet.md
       - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
       - SD-JWT Python: projects/sd-jwt-python.md
       - SD-JWT Rust: projects/sd-jwt-rust.md
@@ -212,6 +210,9 @@ nav:
       - Tuvali: projects/tuvali.md
       - VC-API: projects/vc-api.md
       - Wallet Framework .NET: projects/wallet-framework-dotnet.md
+    - Archived:
+      - Credhub: projects/credhub.md
+      - SD-JWT .NET: projects/sd-jwt-dotnet.md
     - Annual Reviews:
       - 2024:
         - projects/reviews/2024/index.md
