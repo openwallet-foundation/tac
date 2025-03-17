@@ -1,6 +1,12 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-Welcome to the OpenWallet Foundation's (OWF) Technical Advisory Council (TAC) website. Here you will find:
+Welcome to the OpenWallet Foundation's (OWF) Technical Advisory Council (TAC) website. 
+
+You will find the Project Proposal Process [at this link](https://tac.openwallet.foundation/governance/project-lifecycle/#project-proposal-process). 
+
+You will find the Special Interest Group (SIG) [at this link](https://tac.openwallet.foundation/governance/special-interest-group-process/)
+
+Here you will find:
 
 <div class="grid cards" markdown>
 
