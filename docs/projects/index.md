@@ -4,6 +4,10 @@
 
 Projects in the OpenWallet Foundation follow the [project lifecycle](../governance/project-lifecycle.md). This page lists the active projects within the OpenWallet Foundation and their current [lifecycle stage](../governance/project-lifecycle.md#stages).
 
+!!! tip "Propose a Project"
+    If you would like to propose a new project, please see the [Project proposal process](../governance/project-lifecycle/#project-proposal-process).
+
+
 ## Active Projects
 
 | Approval Date | Project Name                                                      | Lifecycle Stage |
