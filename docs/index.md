@@ -5,9 +5,9 @@ Welcome to the OpenWallet Foundation's (OWF) Technical Advisory Council (TAC) we
 ## Get Involved  
 Contribute to the OpenWallet Foundation by proposing new initiatives that align with our mission.
 
-- **Propose a Project** – Submit a project proposal to bring your idea into the OpenWallet Foundation. Whether you're integrating an existing project or starting a new one, your proposal should outline its purpose, alignment with OWF's mission, governance, and technical details. [Learn more about the project proposal process.](/governance/project-lifecycle/#project-proposal-process)  
+- [**Propose a Project**](/governance/project-lifecycle/#project-proposal-process) – Submit a project proposal to bring your idea into the OpenWallet Foundation. Whether you're integrating an existing project or starting a new one, your proposal should outline its purpose, alignment with OWF's mission, governance, and technical details. [Learn more about the project proposal process.](/governance/project-lifecycle/#project-proposal-process)  
 
-- **Propose a Special Interest Group (SIG)** – Create a collaborative space for ongoing discussions on specific topics within the OpenWallet Foundation’s scope. SIGs foster knowledge sharing and may or may not produce deliverables. To start a SIG, submit a proposal including its objectives, leadership, and focus areas. [Learn more about SIGs.](/governance/special-interest-group-proce)  
+- [**Propose a Special Interest Group (SIG)**](/governance/special-interest-group-process)   – Create a collaborative space for ongoing discussions on specific topics within the OpenWallet Foundation’s scope. SIGs foster knowledge sharing and may or may not produce deliverables. To start a SIG, submit a proposal including its objectives, leadership, and focus areas. [Learn more about SIGs.](/governance/special-interest-group-process)  
 
 <div class="grid" markdown>
   [Propose a Project](/governance/project-lifecycle/#project-proposal-process){ .md-button .md-button--primary style="width: 100%; text-align: center"}
