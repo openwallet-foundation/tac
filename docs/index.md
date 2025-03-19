@@ -2,11 +2,22 @@
 
 Welcome to the OpenWallet Foundation's (OWF) Technical Advisory Council (TAC) website. 
 
-You will find the Project Proposal Process [at this link](https://tac.openwallet.foundation/governance/project-lifecycle/#project-proposal-process). 
+## Get Involved  
+Contribute to the OpenWallet Foundation by proposing new initiatives that align with our mission.
 
-You will find the Special Interest Group (SIG) [at this link](https://tac.openwallet.foundation/governance/special-interest-group-process/)
+- **Propose a Project** – Submit a project proposal to bring your idea into the OpenWallet Foundation. Whether you're integrating an existing project or starting a new one, your proposal should outline its purpose, alignment with OWF's mission, governance, and technical details. [Learn more about the project proposal process.](/governance/project-lifecycle/#project-proposal-process)  
 
-Here you will find:
+- **Propose a Special Interest Group (SIG)** – Create a collaborative space for ongoing discussions on specific topics within the OpenWallet Foundation’s scope. SIGs foster knowledge sharing and may or may not produce deliverables. To start a SIG, submit a proposal including its objectives, leadership, and focus areas. [Learn more about SIGs.](/governance/special-interest-group-proce)  
+
+<div class="grid" markdown>
+  [Propose a Project](/governance/project-lifecycle/#project-proposal-process){ .md-button .md-button--primary style="width: 100%; text-align: center"}
+
+  [Propose a Special Interest Group](/governance/special-interest-group-process/){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+</div>
+
+## Explore the TAC Website
+
+Here, you will find resources to help you navigate the OWF Technical Advisory Council:
 
 <div class="grid cards" markdown>
 
