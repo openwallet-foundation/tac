@@ -43,7 +43,7 @@ Projects must be formally [proposed via GitHub](https://github.com/openwallet-fo
 
 * [Impact stage](#impact-stage) and [Growth stage](#growth-stage) projects are accepted via a two-thirds supermajority vote of the TAC. [Labs](#labs) are accepted via a simple majority of the TAC.
 * Satisfaction of the requirements of the initial stage of the project. The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process.
-* If the project is accepted by the TAC, a project charter and contribution agreement (if necessary) can be obtained by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSeO1bDGHUP-ZpCo1uynm94YOxZlek6RhCH7o3FnX1lZSXXfSQ/viewform?fbzx=4351560609072672295). Here is [sample project charter](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit) that you can review.  A collaboration agreement is needed for existing projects and provides an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
+* If the project is accepted by the TAC, a project charter and contribution agreement (if necessary) will be created. Here is [sample project charter](https://docs.google.com/document/d/1Sxnktu3d_xLFSZmAmSFbUp1Y1s1E36YvNDupY2AmigU/edit) that you can review.  A collaboration agreement is needed for existing projects and provides an agreement to transfer the project name, trademarks, and electronic account assets (github repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the OpenWallet Foundation.
 
 ## Project Stage Change Proposal Process
 
