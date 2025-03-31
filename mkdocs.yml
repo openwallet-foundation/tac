@@ -193,6 +193,7 @@ nav:
       - DIDComm Mediator: projects/didcomm-mediator.md
       - OWL: projects/owl.md
       - SD-JWT JavaScript: projects/sd-jwt-js.md
+      - VCX: projects/vcx.md
     - Labs:
       - DCQL TypeScript: projects/dcql-ts.md
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
