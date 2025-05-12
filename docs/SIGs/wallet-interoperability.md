@@ -18,7 +18,9 @@ Join the community and explore the resources shared by the group.
 
 [View Calendar & Join Calls](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
-[Explore GitHub Repository](https://github.com/openwallet-foundation/wallet-interoperability-sig){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+<a class="md-button md-button--disabled" title="GitHub repository not yet available." style="width: 100%; text-align: center">
+  GitHub Repository Not Available
+</a>
 
 [Access SIG Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
@@ -54,8 +56,8 @@ Stay in touch with the group:
 
 ## Resources
 
-- **GitHub Repository**: [openwallet-foundation/wallet-interoperability-sig](https://github.com/openwallet-foundation/wallet-interoperability-sig)
-- **Meeting & Wiki**: [WISIG on Atlassian Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG)
+- **Wiki & Meeting Info**: [WISIG on Atlassian Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG)
+- **GitHub Repository**: _Not currently available_
 
 ---
 
@@ -67,7 +69,7 @@ This SIG is currently focused on:
 - Mapping existing wallet-to-wallet or wallet-to-service integration efforts
 - Identifying opportunities to support or align with relevant standards
 
-The SIG will incrementally publish interoperability documentation, comparison tables, and guidance materials through its GitHub repo.
+The SIG will incrementally publish interoperability documentation, comparison tables, and guidance materials as its work evolves.
 
 ---
 
@@ -77,7 +79,9 @@ The SIG will incrementally publish interoperability documentation, comparison ta
 
 [View Calendar & Join Calls](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
-[Explore GitHub Repository](https://github.com/openwallet-foundation/wallet-interoperability-sig){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+<a class="md-button md-button--disabled" title="GitHub repository not yet available." style="width: 100%; text-align: center">
+  GitHub Repository Not Available
+</a>
 
 [Access SIG Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
