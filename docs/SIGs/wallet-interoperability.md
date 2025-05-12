@@ -16,15 +16,11 @@ Join the community and explore the resources shared by the group.
 
 [Join the Discord Channel](https://discord.com/channels/1022962884864643214/1291067233967149150){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
-<a class="md-button md-button--disabled" title="Meeting schedule and join details not yet available." style="width: 100%; text-align: center">
-  Meeting Details Not Available
-</a>
+[View Calendar & Join Calls](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
 [Explore GitHub Repository](https://github.com/openwallet-foundation/wallet-interoperability-sig){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
-<a class="md-button md-button--disabled" title="Wiki or documentation site not yet available." style="width: 100%; text-align: center">
-  Wiki Not Available
-</a>
+[Access SIG Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
 </div>
 
@@ -40,12 +36,10 @@ It encourages participation from implementers, standards contributors, and servi
 
 ## Meetings
 
-_Meeting schedule and participation details have not yet been published._
+Meetings are organized and documented in the SIG's Confluence wiki:
 
-This section will eventually include:
-- Recurring meeting times
-- Join links and calendar
-- Notes or shared agendas
+- **Schedule & Join Info**: [Meeting Page](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG)
+- Includes links to calls, agendas, and notes
 
 ---
 
@@ -61,8 +55,7 @@ Stay in touch with the group:
 ## Resources
 
 - **GitHub Repository**: [openwallet-foundation/wallet-interoperability-sig](https://github.com/openwallet-foundation/wallet-interoperability-sig)
-- **Meeting Info**: _Not currently available_
-- **Wiki**: _Not currently available_
+- **Meeting & Wiki**: [WISIG on Atlassian Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG)
 
 ---
 
@@ -82,14 +75,10 @@ The SIG will incrementally publish interoperability documentation, comparison ta
 
 [Join the Discord Channel](https://discord.com/channels/1022962884864643214/1291067233967149150){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
-<a class="md-button md-button--disabled" title="Meeting schedule and join details not yet available." style="width: 100%; text-align: center">
-  Meeting Details Not Available
-</a>
+[View Calendar & Join Calls](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
 [Explore GitHub Repository](https://github.com/openwallet-foundation/wallet-interoperability-sig){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
-<a class="md-button md-button--disabled" title="Wiki or documentation site not yet available." style="width: 100%; text-align: center">
-  Wiki Not Available
-</a>
+[Access SIG Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
 
 </div>
