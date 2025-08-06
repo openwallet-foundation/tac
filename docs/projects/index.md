@@ -4,11 +4,29 @@
 
 Projects in the OpenWallet Foundation follow the [project lifecycle](../governance/project-lifecycle.md). This page lists the active projects within the OpenWallet Foundation and their current [lifecycle stage](../governance/project-lifecycle.md#stages).
 
-!!! tip "Propose a Project"
-    If you would like to propose a new project, please see the [Project proposal process](../governance/project-lifecycle/#project-proposal-process).
+
+<div class="grid cards" markdown>
+
+- :material-lightbulb-on-outline:{ .lg .middle } __[Propose a Project](../governance/project-lifecycle/#project-proposal-process)__
+
+    ---
+
+    If you would like to propose a new project, please [see the process](../governance/project-lifecycle/#project-proposal-process) and submit your idea.
+
+    [Propose a Project →](../governance/project-lifecycle/#project-proposal-process){ .md-button .md-button--primary }
 
 
-## Active Projects
+-   :material-chart-line:{ .lg .middle } __[Insights Dashboard](https://insights.linuxfoundation.org/project/openwalletfoundation/development)__
+
+    ---
+
+    Get real-time insights into OpenWallet Foundation project activity, contributor trends, and lifecycle stage transitions.
+    
+    [View Dashboard →](https://insights.linuxfoundation.org/project/openwalletfoundation/development){ .md-button .md-button--primary }
+
+</div>
+
+## :material-briefcase-outline: Active Projects
 
 | Approval Date | Project Name                                                      | Lifecycle Stage |
 | ------------- | ----------------------------------------------------------------- | --------------- |
@@ -39,8 +57,11 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2025-Jan-23   | [SD-JWT Verifiable Credentials Data Model](./sd-jwt-vc-dm.md)     | Lab             |
 | 2025-Feb-19   | [VCX](./vcx.md)                                                   | Growth          |
 
-## Archived Projects
+## :material-archive-outline: Archived Projects
+
 | Approval Date | Project Name                                                      | Archive Date    |
 | ------------- | ----------------------------------------------------------------- | --------------- |
 | 2024-May-29   | [Credhub](./credhub.md)                                           | 2025-Jan-29     |
 | 2023-Nov-29   | [SD-JWT .NET](./sd-jwt-dotnet.md)                                 | 2025-Feb-14     |
+</div>
+
