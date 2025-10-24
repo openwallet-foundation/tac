@@ -1,8 +1,8 @@
 ---
 name: At Large Nomination
 about: Nominate yourself for a TAC "at large" position
-title: '[NOMINATION]: 2024 "at large" Name'
-labels: 2024-at-large-nomination
+title: '[NOMINATION]: 2025 "at large" Name'
+labels: 2025-at-large-nomination
 assignees: ''
 
 ---
