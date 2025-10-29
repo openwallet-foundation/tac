@@ -8,7 +8,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # if: github.event.repository.fork == false
+    if: github.event.repository.fork == false
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -22,8 +22,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install pngquant 
-      # - run: pip install git+https://${MKDOCS_MATERIAL}@github.com/squidfunk/mkdocs-material-insiders.git
-      - run: pip install mkdocs mkdocs-material
+      - run: pip install git+https://${MKDOCS_MATERIAL}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
 env:
   MKDOCS_MATERIAL: ${{ secrets.MKDOCS_MATERIAL }} 
