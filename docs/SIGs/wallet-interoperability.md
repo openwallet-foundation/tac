@@ -1,10 +1,88 @@
-# Wallet Interoperability Special Interest Group (WISIG)
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-The WISIG will focus on defining, publishing, and testing wallet interoperability profiles (WIPs). The WISIG will define how to create wallet interoperability profiles, and create WIPs for different wallet technical stacks, ensuring that digital wallets implementations adhere to the global standards referenced in the profile and can interact seamlessly with one another. The group will start by taking over maintenance of the existing AIP 2.0 profile, and create additional, parallel Wallet Interoperability Profiles that cover other technical stacks, such as OpenID4VCs, mDL/mDocs and so on. The group will also develop tools and guidance for testing the profiles to enable demonstrations of compliance and interoperability, leveraging existing test suites where available, and developing new test suites as needed.
+# Wallet Interoperability Special Interest Group (SIG)
 
-This SIG was accepted by the TAC on [October 2, 2024](../meetings/2024/2024-10-02.md). See [Wallet Interoperability SIG Proposal](https://github.com/openwallet-foundation/tac/issues/182) for more details.
+The Wallet Interoperability SIG explores how different wallet systems can **interoperate across technical stacks, ecosystems, and standards**. It promotes collaboration around APIs, protocols, and integration patterns that enable wallet-to-wallet and wallet-to-service compatibility.
 
-## Participating
-This SIG is an open group. Anyone in the OpenWallet Foundation community can join and participate. There is no formal sign up process. Just show up and participate.
+_This SIG was accepted by the TAC on [June 14, 2023](../meetings/2023/2023-06-14.md)._
 
-If you are interested in participating, please join the [OpenWallet Foundation Discord](https://discord.gg/openwalletfoundation) and participate in the discussion in the [#wallet-interoperability-sig](https://discord.com/channels/1022962884864643214/1291067233967149150) channel.
+---
+
+## Get Involved
+
+Join the community and explore the resources shared by the group.
+
+<div class="grid" markdown>
+
+[Join the Discord Channel](https://discord.com/channels/1022962884864643214/1291067233967149150){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+
+[View Calendar & Join Calls](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+
+<a class="md-button md-button--disabled" title="GitHub repository not yet available." style="width: 100%; text-align: center">
+  GitHub Repository Not Available
+</a>
+
+[Access SIG Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+
+</div>
+
+---
+
+## About This SIG
+
+The Wallet Interoperability SIG provides a forum to coordinate and align on **cross-compatibility between wallet systems**. The group investigates how to achieve interoperability through shared protocols, capability declarations, API patterns, and common data models.
+
+It encourages participation from implementers, standards contributors, and service integrators.
+
+---
+
+## Meetings
+
+Meetings are organized and documented in the SIG's Confluence wiki:
+
+- **Schedule & Join Info**: [Meeting Page](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG)
+- Includes links to calls, agendas, and notes
+
+---
+
+## Communication
+
+Stay in touch with the group:
+
+- **Discord Channel**: [#wallet-interoperability-sig](https://discord.com/channels/1022962884864643214/1291067233967149150)
+- [OpenWallet Foundation Discord Invite](https://discord.gg/openwalletfoundation)
+
+---
+
+## Resources
+
+- **Wiki & Meeting Info**: [WISIG on Atlassian Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG)
+- **GitHub Repository**: _Not currently available_
+
+---
+
+## Deliverables and Workstreams
+
+This SIG is currently focused on:
+
+- Exploring **cross-ecosystem interoperability** use cases
+- Mapping existing wallet-to-wallet or wallet-to-service integration efforts
+- Identifying opportunities to support or align with relevant standards
+
+The SIG will incrementally publish interoperability documentation, comparison tables, and guidance materials as its work evolves.
+
+---
+
+<div class="grid" markdown>
+
+[Join the Discord Channel](https://discord.com/channels/1022962884864643214/1291067233967149150){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+
+[View Calendar & Join Calls](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+
+<a class="md-button md-button--disabled" title="GitHub repository not yet available." style="width: 100%; text-align: center">
+  GitHub Repository Not Available
+</a>
+
+[Access SIG Wiki](https://lf-openwallet-foundation.atlassian.net/wiki/spaces/GROUP/pages/45056001/WISIG+Wallet+Interoperability+SIG){ .md-button .md-button--primary style="width: 100%; text-align: center" }
+
+</div>
