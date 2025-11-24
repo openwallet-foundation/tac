@@ -1,8 +1,8 @@
 ---
 name: Chair/Vice Chair Nomination
 about: Nominate yourself for the TAC Chair/Vice Chair position
-title: "[NOMINATION]: 2024 Chair/Vice Chair _Name_"
-labels: 2024-chair-vice-chair-nomination
+title: "[NOMINATION]: 2025 Chair/Vice Chair _Name_"
+labels: 2025-chair-vice-chair-nomination
 assignees: ''
 
 ---
