@@ -1,29 +1,29 @@
-name: ci
+name: Documentation
 on:
   push:
     branches:
       - main
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 jobs:
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     if: github.event.repository.fork == false
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-      - uses: actions/cache@v3
+      - run: pip install zensical
+      - run: zensical build --clean 
+      - uses: actions/upload-pages-artifact@v4
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install pngquant 
-      - run: pip install git+https://${MKDOCS_MATERIAL}@github.com/squidfunk/mkdocs-material-insiders.git
-      - run: mkdocs gh-deploy --force
-env:
-  MKDOCS_MATERIAL: ${{ secrets.MKDOCS_MATERIAL }} 
-
+          path: site
+      - uses: actions/deploy-pages@v4
+        id: deployment
