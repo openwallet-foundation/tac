@@ -1,4 +1,4 @@
-# 2025 Project Annual Reviews
+# 2026 Project Annual Reviews
 
 Projects must provide an [annual review](../../../governance/project-annual-review-process.md) to the TAC to ensure that the project is still active and in the correct [lifecycle stage](../../../governance/project-lifecycle.md#stages). The following calendar provides the timing for when these reviews are required to be presented to the TAC:
 
