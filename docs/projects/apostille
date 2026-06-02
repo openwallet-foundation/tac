@@ -1,0 +1,42 @@
+# Apostille
+
+## Project Description
+Apostille is a comprehensive credential management platform that is production-ready but seeking community adoption and collaboration within the OWF ecosystem. As a Labs project, we aim to:
+
+- Gain visibility within the OWF community
+- Collaborate with related projects (Credo-ts, Bifold Wallet, ACA-Py)
+- Build a diverse contributor community
+- Work toward Growth stage maturity
+
+### Core Capabilities
+
+**Credential Management**
+- Visual drag-and-drop credential designer for creating branded credential cards
+- Schema management with support for multiple DID methods (did:web, did:key, did:kanon)
+- Credential definitions with OCA (Overlay Capture Architecture) branding overlays
+- Multi-format credential support: AnonCreds, SD-JWT, mDocs (ISO 18013-5), OpenBadges 3.0
+
+**Issuance & Verification Protocols**
+- **OID4VCI** - OpenID for Verifiable Credential Issuance (wallet-initiated flows)
+- **OID4VP** - OpenID for Verifiable Presentations (QR-code and deep-link verification)
+- **DIDComm v1/v2** - Peer-to-peer secure messaging and credential exchange
+- **ISO 18013-5** - Mobile driver's license (mDL) and mdoc credential support
+
+**Advanced Features**
+- OpenBadges 3.0 credential issuance and verification
+- Workflow engine for multi-step credential issuance
+- P2P video calls with WebRTC for remote identity verification
+- P2P document and PDF signing with verifiable credentials
+- Post-quantum cryptography support (ML-KEM-768 key encapsulation)
+- Proof of Execution (POE) for zero-knowledge proof verification
+- Institutional credential provider integrations
+
+## Source Repositories
+
+- [https://github.com/openwallet-foundation-labs/apostille](https://github.com/openwallet-foundation-labs/apostille)
+
+## Chat Channel
+- [#apostille](https://discord.gg/BVjDrxStF) on the [OpenWallet Foundation Discord server](https://discord.gg/openwalletfoundation)
+
+## History
+
