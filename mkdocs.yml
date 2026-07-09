@@ -190,37 +190,33 @@ nav:
   - Projects:
     - projects/index.md
     - Impact:
-      - ACA-Py: projects/aca-py.md
+      - Adaptive Cloud Agent-Python (ACA-Py): projects/aca-py.md
     - Growth:
-      - Askar: projects/askar.md
-      - Bifold: projects/bifold.md
       - Credo: projects/credo-ts.md
       - DIDComm Mediator: projects/didcomm-mediator.md
-      - OWL: projects/owl.md
-      - SD-JWT JavaScript: projects/sd-jwt-js.md
+      - KapunSDK: projects/kapunsdk.md
+      - Multipaz: projects/multipaz.md
+      - SD-JWT JavaScript Reference Implementation: projects/sd-jwt-js.md
+      - ThunderID: projects/thunderid.md
       - VCX: projects/vcx.md
     - Labs:
-      - DCQL TypeScript: projects/dcql-ts.md
-      - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
+      - Apostille: projects/apostille.md
       - Farmworker Wallet OS: projects/fwos.md
-      - Identity Credential: projects/identity-credential.md
-      - Learner Credential Wallet: projects/learner-credential-wallet.md
-      - MDL JavaScript: projects/mdl-js.md
       - Multiformat VC for iOS: projects/multiformat-vc-ios.md
-      - OID4VC TypeScript: projects/oid4vc-ts.md
-      - OpenID Federation TypeScript: projects/openid-federation-ts.md
-      - SD-JWT Kotlin: projects/sd-jwt-kotlin.md
-      - SD-JWT Python: projects/sd-jwt-python.md
-      - SD-JWT Rust: projects/sd-jwt-rust.md
-      - SD-JWT VC Data Model: projects/sd-jwt-vc-dm.md
-      - Solid Data Wallet: projects/solid-data-wallet.md
-      - Trust Spanning Protocol: projects/tsp.md
-      - Tuvali: projects/tuvali.md
+      - SD-JWT .NET Reference Implementation: projects/sd-jwt-dotnet.md
+      - SD-JWT Python Reference Implementation: projects/sd-jwt-python.md
+      - SD-JWT Rust Reference Implementation: projects/sd-jwt-rust.md
+      - Tuvali: projects/tuvali.md 
       - VC-API: projects/vc-api.md
       - Wallet Framework .NET: projects/wallet-framework-dotnet.md
     - Archived:
       - Credhub: projects/credhub.md
-      - SD-JWT .NET: projects/sd-jwt-dotnet.md
+      - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
+      - MDL JavaScript: projects/mdl-js.md
+      - SD-JWT Kotlin Reference Implementation: projects/sd-jwt-kotlin.md
+      - SD-JWT VC Data Model Reference Implementation: projects/sd-jwt-vc-dm.md
+      - Solid Data Wallet: projects/solid-data-wallet.md
+      
     - Annual Reviews:
       - 2024:
         - projects/reviews/2024/index.md
