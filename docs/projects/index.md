@@ -34,7 +34,6 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2023-May-17   | [SD-JWT Python](./sd-jwt-python.md)                               | Lab             |
 | 2023-Aug-09   | [Farmworker Wallet OS](./fwos.md)                                 | Lab             |
 | 2023-Sep-28   | [VC API](./vc-api.md)                                             | Lab             |
-| 2023-Oct-04   | [Wallet Framework .NET](./wallet-framework-dotnet.md)             | Lab             |
 | 2023-Oct-18   | [Multipaz](./identity-credential.md)                              | Growth          |
 | 2023-Nov-01   | [SD-JWT JavaScript](./sd-jwt-js.md)                               | Growth          |
 | 2023-Nov-15   | [SD-JWT Rust](./sd-jwt-rust.md)                                   | Lab             |
@@ -56,5 +55,6 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | ------------- | ----------------------------------------------------------------- | --------------- |
 | 2024-May-29   | [Credhub](./credhub.md)                                           | 2025-Jan-29     |
 | 2023-Nov-29   | [SD-JWT .NET](./sd-jwt-dotnet.md)                                 | 2025-Feb-14     |
+| 2023-Oct-04   | [Wallet Framework .NET](./wallet-framework-dotnet.md)             | 2026-Sep-24     |
 </div>
 
