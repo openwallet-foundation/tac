@@ -208,7 +208,6 @@ nav:
       - SD-JWT Rust Reference Implementation: projects/sd-jwt-rust.md
       - Tuvali: projects/tuvali.md 
       - VC-API: projects/vc-api.md
-      - Wallet Framework .NET: projects/wallet-framework-dotnet.md
     - Archived:
       - Credhub: projects/credhub.md
       - EUDI Wallet Kit React Native: projects/eudi-wallet-kit-react-native.md
@@ -216,6 +215,7 @@ nav:
       - SD-JWT Kotlin Reference Implementation: projects/sd-jwt-kotlin.md
       - SD-JWT VC Data Model Reference Implementation: projects/sd-jwt-vc-dm.md
       - Solid Data Wallet: projects/solid-data-wallet.md
+      - Wallet Framework .NET: projects/wallet-framework-dotnet.md
       
     - Annual Reviews:
       - 2024:
