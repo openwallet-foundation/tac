@@ -120,6 +120,7 @@ nav:
       - Common Repository Structure: governance/common-repository-structure.md
       - MAINTAINERS.md Contents: governance/maintainers-file-content.md
       - Maintainer Inactivity: governance/maintainer-inactivity.md
+      - Adopters File: governance/defining-adopters.md
       - Security Policy: governance/security.md
       - Release Taxonomy: governance/release-taxonomy.md
       - Inactive Repositories: governance/archiving-inactive-repositories.md
