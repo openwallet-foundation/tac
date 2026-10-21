@@ -30,7 +30,6 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 
 | Approval Date | Project Name                                                      | Lifecycle Stage |
 | ------------- | ----------------------------------------------------------------- | --------------- |
-| 2023-May-17   | [SD-JWT Kotlin](./sd-jwt-kotlin.md)                               | Lab             |
 | 2023-May-17   | [SD-JWT Python](./sd-jwt-python.md)                               | Lab             |
 | 2023-Aug-09   | [Farmworker Wallet OS](./fwos.md)                                 | Lab             |
 | 2023-Sep-28   | [VC API](./vc-api.md)                                             | Lab             |
@@ -45,9 +44,6 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2025-Feb-19   | [VCX](./vcx.md)                                                   | Growth          |
 | TBD           | Apostille                                                         | Lab             |
 | TBD           | EHR Wallet                                                        | Lab             |
-| TBD           | EUDIPLO                                                           | Growth          |
-| TBD           | TRS                                                               | Lab             |
-| TBD           | MDL Implementation In Javascript                                  | Lab             |
  
 ## :material-archive-outline: Archived Projects
 
@@ -56,5 +52,6 @@ Projects in the OpenWallet Foundation follow the [project lifecycle](../governan
 | 2024-May-29   | [Credhub](./credhub.md)                                           | 2025-Jan-29     |
 | 2023-Nov-29   | [SD-JWT .NET](./sd-jwt-dotnet.md)                                 | 2025-Feb-14     |
 | 2023-Oct-04   | [Wallet Framework .NET](./wallet-framework-dotnet.md)             | 2026-Sep-24     |
+| 2023-May-17   | [SD-JWT Kotlin](./sd-jwt-kotlin.md)                               | Lab             |
 </div>
 
