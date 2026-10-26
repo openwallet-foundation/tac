@@ -197,7 +197,6 @@ nav:
       - KapunSDK: projects/kapunsdk.md
       - Multipaz: projects/multipaz.md
       - SD-JWT JavaScript Reference Implementation: projects/sd-jwt-js.md
-      - ThunderID: projects/thunderid.md
       - VCX: projects/vcx.md
     - Labs:
       - Apostille: projects/apostille.md
